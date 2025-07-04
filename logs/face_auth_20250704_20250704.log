@@ -1,0 +1,1346 @@
+2025-07-04 19:02:02 [INFO] [face_auth] [logger.py:134] - 日志记录器 'face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:02:02 [INFO] [face_auth.models] [logger.py:134] - 日志记录器 'face_auth.models' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:02:02 [INFO] [face_auth.models] [logger.py:134] - 日志记录器 'face_auth.models' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:02:03 [INFO] [face_auth.face_detector] [logger.py:134] - 日志记录器 'face_auth.face_detector' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:02:03 [INFO] [face_auth.face_detector] [logger.py:134] - 日志记录器 'face_auth.face_detector' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:02:03 [INFO] [face_auth.face_utils] [logger.py:134] - 日志记录器 'face_auth.face_utils' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:02:03 [INFO] [face_auth.face_utils] [logger.py:134] - 日志记录器 'face_auth.face_utils' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:02:03 [INFO] [face_auth.face_auth.authenticator] [logger.py:134] - 日志记录器 'face_auth.face_auth.authenticator' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:02:03 [INFO] [face_auth.face_auth.authenticator] [logger.py:134] - 日志记录器 'face_auth.face_auth.authenticator' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:02:03 [INFO] [face_auth.validators] [logger.py:134] - 日志记录器 'face_auth.validators' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:02:03 [INFO] [face_auth.validators] [logger.py:134] - 日志记录器 'face_auth.validators' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:02:03 [INFO] [face_auth.message_box] [logger.py:134] - 日志记录器 'face_auth.message_box' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:02:03 [INFO] [face_auth.message_box] [logger.py:134] - 日志记录器 'face_auth.message_box' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:02:03 [INFO] [face_auth.face_auth] [logger.py:134] - 日志记录器 'face_auth.face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:02:03 [INFO] [face_auth.face_auth] [logger.py:134] - 日志记录器 'face_auth.face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:02:03 [INFO] [face_auth.main] [logger.py:134] - 日志记录器 'face_auth.main' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:02:03 [INFO] [face_auth.main] [logger.py:134] - 日志记录器 'face_auth.main' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:02:03 [INFO] [face_auth.main] [main.py:168] - 程序启动...
+2025-07-04 19:02:03 [INFO] [face_auth.main] [main.py:168] - 程序启动...
+2025-07-04 19:02:03 [INFO] [face_auth.main] [main.py:169] - 调试模式: 关闭
+2025-07-04 19:02:03 [INFO] [face_auth.main] [main.py:169] - 调试模式: 关闭
+2025-07-04 19:02:03 [INFO] [face_auth.main] [main.py:107] - Python 版本: 3.8.10 (default, May 19 2021, 13:12:57) [MSC v.1916 64 bit (AMD64)]
+2025-07-04 19:02:03 [INFO] [face_auth.main] [main.py:107] - Python 版本: 3.8.10 (default, May 19 2021, 13:12:57) [MSC v.1916 64 bit (AMD64)]
+2025-07-04 19:02:03 [INFO] [face_auth.main] [main.py:108] - PyTorch 版本: 1.10.1+cu113
+2025-07-04 19:02:03 [INFO] [face_auth.main] [main.py:108] - PyTorch 版本: 1.10.1+cu113
+2025-07-04 19:02:03 [INFO] [face_auth.main] [main.py:109] - OpenCV 版本: 4.5.5
+2025-07-04 19:02:03 [INFO] [face_auth.main] [main.py:109] - OpenCV 版本: 4.5.5
+2025-07-04 19:02:03 [INFO] [face_auth.main] [main.py:110] - NumPy 版本: 1.24.4
+2025-07-04 19:02:03 [INFO] [face_auth.main] [main.py:110] - NumPy 版本: 1.24.4
+2025-07-04 19:02:03 [INFO] [face_auth.main] [main.py:111] - PyMySQL 版本: 1.0.2
+2025-07-04 19:02:03 [INFO] [face_auth.main] [main.py:111] - PyMySQL 版本: 1.0.2
+2025-07-04 19:02:03 [INFO] [face_auth.main] [main.py:115] - CUDA 可用: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:02:03 [INFO] [face_auth.main] [main.py:115] - CUDA 可用: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:02:05 [INFO] [face_auth.main] [main.py:122] - 摄像头检查通过
+2025-07-04 19:02:05 [INFO] [face_auth.main] [main.py:122] - 摄像头检查通过
+2025-07-04 19:02:05 [INFO] [face_auth.main] [main.py:144] - 数据库连接测试成功
+2025-07-04 19:02:05 [INFO] [face_auth.main] [main.py:144] - 数据库连接测试成功
+2025-07-04 19:02:05 [INFO] [face_auth.main] [main.py:199] - 使用数据库配置: {'host': 'localhost', 'user': 'root', 'password': '123456', 'db_name': 'face_auth', 'port': 3306, 'charset': 'utf8mb4', 'connect_timeout': 5, 'max_retries': 3}
+2025-07-04 19:02:05 [INFO] [face_auth.main] [main.py:199] - 使用数据库配置: {'host': 'localhost', 'user': 'root', 'password': '123456', 'db_name': 'face_auth', 'port': 3306, 'charset': 'utf8mb4', 'connect_timeout': 5, 'max_retries': 3}
+2025-07-04 19:02:05 [INFO] [face_auth.main] [main.py:203] - 正在创建QApplication实例...
+2025-07-04 19:02:05 [INFO] [face_auth.main] [main.py:203] - 正在创建QApplication实例...
+2025-07-04 19:02:05 [INFO] [face_auth.main] [main.py:213] - QApplication实例创建成功
+2025-07-04 19:02:05 [INFO] [face_auth.main] [main.py:213] - QApplication实例创建成功
+2025-07-04 19:02:05 [INFO] [face_auth.main] [main.py:222] - 正在创建登录窗口...
+2025-07-04 19:02:05 [INFO] [face_auth.main] [main.py:222] - 正在创建登录窗口...
+2025-07-04 19:02:05 [INFO] [face_auth.face_auth] [login_window.py:259] - 开始初始化登录窗口...
+2025-07-04 19:02:05 [INFO] [face_auth.face_auth] [login_window.py:259] - 开始初始化登录窗口...
+2025-07-04 19:02:05 [INFO] [face_auth.face_detector] [face_detector.py:30] - 使用设备: cuda
+2025-07-04 19:02:05 [INFO] [face_auth.face_detector] [face_detector.py:30] - 使用设备: cuda
+2025-07-04 19:02:05 [INFO] [face_auth.face_detector] [face_detector.py:32] - GPU设备: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:02:05 [INFO] [face_auth.face_detector] [face_detector.py:32] - GPU设备: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:02:05 [INFO] [face_auth.face_detector] [face_detector.py:33] - 可用显存: 8187.5MB
+2025-07-04 19:02:05 [INFO] [face_auth.face_detector] [face_detector.py:33] - 可用显存: 8187.5MB
+2025-07-04 19:02:05 [INFO] [face_auth.face_detector] [face_detector.py:39] - 正在初始化MTCNN人脸检测器...
+2025-07-04 19:02:05 [INFO] [face_auth.face_detector] [face_detector.py:39] - 正在初始化MTCNN人脸检测器...
+2025-07-04 19:02:05 [INFO] [face_auth.face_detector] [face_detector.py:52] - MTCNN模型加载成功
+2025-07-04 19:02:05 [INFO] [face_auth.face_detector] [face_detector.py:52] - MTCNN模型加载成功
+2025-07-04 19:02:05 [INFO] [face_auth.face_detector] [face_detector.py:62] - 正在从本地加载InceptionResnetV1模型: E:\Python\PyCharm_project\AI\face_auth\resources\models\20180402-114759-vggface2.pt
+2025-07-04 19:02:05 [INFO] [face_auth.face_detector] [face_detector.py:62] - 正在从本地加载InceptionResnetV1模型: E:\Python\PyCharm_project\AI\face_auth\resources\models\20180402-114759-vggface2.pt
+2025-07-04 19:02:06 [INFO] [face_auth.face_detector] [face_detector.py:69] - InceptionResnetV1本地模型加载成功
+2025-07-04 19:02:06 [INFO] [face_auth.face_detector] [face_detector.py:69] - InceptionResnetV1本地模型加载成功
+2025-07-04 19:02:06 [ERROR] [face_auth.face_auth] [login_window.py:300] - 初始化UI失败: 'LoginWindow' object has no attribute 'show_forgot_password_dialog'
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 297, in init_ui
+    self.create_login_area(main_layout)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 406, in create_login_area
+    forgot_pwd_link.clicked.connect(self.show_forgot_password_dialog)
+AttributeError: 'LoginWindow' object has no attribute 'show_forgot_password_dialog'
+
+2025-07-04 19:02:06 [ERROR] [face_auth.face_auth] [login_window.py:300] - 初始化UI失败: 'LoginWindow' object has no attribute 'show_forgot_password_dialog'
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 297, in init_ui
+    self.create_login_area(main_layout)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 406, in create_login_area
+    forgot_pwd_link.clicked.connect(self.show_forgot_password_dialog)
+AttributeError: 'LoginWindow' object has no attribute 'show_forgot_password_dialog'
+
+2025-07-04 19:02:06 [ERROR] [face_auth.face_auth] [login_window.py:277] - 初始化登录窗口失败: 'LoginWindow' object has no attribute 'error_message'
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 297, in init_ui
+    self.create_login_area(main_layout)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 406, in create_login_area
+    forgot_pwd_link.clicked.connect(self.show_forgot_password_dialog)
+AttributeError: 'LoginWindow' object has no attribute 'show_forgot_password_dialog'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 272, in __init__
+    self.init_ui()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 301, in init_ui
+    self.init_error_ui()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 671, in init_error_ui
+    self.error_label = QLabel(self.error_message)
+AttributeError: 'LoginWindow' object has no attribute 'error_message'
+
+2025-07-04 19:02:06 [ERROR] [face_auth.face_auth] [login_window.py:277] - 初始化登录窗口失败: 'LoginWindow' object has no attribute 'error_message'
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 297, in init_ui
+    self.create_login_area(main_layout)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 406, in create_login_area
+    forgot_pwd_link.clicked.connect(self.show_forgot_password_dialog)
+AttributeError: 'LoginWindow' object has no attribute 'show_forgot_password_dialog'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 272, in __init__
+    self.init_ui()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 301, in init_ui
+    self.init_error_ui()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 671, in init_error_ui
+    self.error_label = QLabel(self.error_message)
+AttributeError: 'LoginWindow' object has no attribute 'error_message'
+
+2025-07-04 19:02:06 [ERROR] [face_auth.main] [main.py:236] - 创建或显示登录窗口失败: 'LoginWindow' object has no attribute 'error_message'
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 297, in init_ui
+    self.create_login_area(main_layout)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 406, in create_login_area
+    forgot_pwd_link.clicked.connect(self.show_forgot_password_dialog)
+AttributeError: 'LoginWindow' object has no attribute 'show_forgot_password_dialog'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 272, in __init__
+    self.init_ui()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 301, in init_ui
+    self.init_error_ui()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 671, in init_error_ui
+    self.error_label = QLabel(self.error_message)
+AttributeError: 'LoginWindow' object has no attribute 'error_message'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\main.py", line 223, in main
+    window = LoginWindow(db_config)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 278, in __init__
+    self.init_error_ui()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 671, in init_error_ui
+    self.error_label = QLabel(self.error_message)
+AttributeError: 'LoginWindow' object has no attribute 'error_message'
+
+2025-07-04 19:02:06 [ERROR] [face_auth.main] [main.py:236] - 创建或显示登录窗口失败: 'LoginWindow' object has no attribute 'error_message'
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 297, in init_ui
+    self.create_login_area(main_layout)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 406, in create_login_area
+    forgot_pwd_link.clicked.connect(self.show_forgot_password_dialog)
+AttributeError: 'LoginWindow' object has no attribute 'show_forgot_password_dialog'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 272, in __init__
+    self.init_ui()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 301, in init_ui
+    self.init_error_ui()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 671, in init_error_ui
+    self.error_label = QLabel(self.error_message)
+AttributeError: 'LoginWindow' object has no attribute 'error_message'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\main.py", line 223, in main
+    window = LoginWindow(db_config)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 278, in __init__
+    self.init_error_ui()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 671, in init_error_ui
+    self.error_label = QLabel(self.error_message)
+AttributeError: 'LoginWindow' object has no attribute 'error_message'
+
+2025-07-04 19:02:08 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:02:08 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:02:08 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:02:08 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:02:08 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:02:08 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:02:08 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:02:08 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:02:08 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:02:08 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:02:08 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:02:08 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:02:08 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:02:08 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:02:08 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:02:08 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:02:08 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:02:08 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:10:31 [INFO] [face_auth] [logger.py:134] - 日志记录器 'face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:10:31 [INFO] [face_auth.models] [logger.py:134] - 日志记录器 'face_auth.models' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:10:31 [INFO] [face_auth.models] [logger.py:134] - 日志记录器 'face_auth.models' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:10:32 [INFO] [face_auth.face_detector] [logger.py:134] - 日志记录器 'face_auth.face_detector' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:10:32 [INFO] [face_auth.face_detector] [logger.py:134] - 日志记录器 'face_auth.face_detector' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:10:32 [INFO] [face_auth.face_utils] [logger.py:134] - 日志记录器 'face_auth.face_utils' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:10:32 [INFO] [face_auth.face_utils] [logger.py:134] - 日志记录器 'face_auth.face_utils' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:10:32 [INFO] [face_auth.face_auth.authenticator] [logger.py:134] - 日志记录器 'face_auth.face_auth.authenticator' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:10:32 [INFO] [face_auth.face_auth.authenticator] [logger.py:134] - 日志记录器 'face_auth.face_auth.authenticator' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:10:32 [INFO] [face_auth.validators] [logger.py:134] - 日志记录器 'face_auth.validators' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:10:32 [INFO] [face_auth.validators] [logger.py:134] - 日志记录器 'face_auth.validators' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:10:32 [INFO] [face_auth.message_box] [logger.py:134] - 日志记录器 'face_auth.message_box' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:10:32 [INFO] [face_auth.message_box] [logger.py:134] - 日志记录器 'face_auth.message_box' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:10:32 [INFO] [face_auth.face_auth] [logger.py:134] - 日志记录器 'face_auth.face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:10:32 [INFO] [face_auth.face_auth] [logger.py:134] - 日志记录器 'face_auth.face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:10:32 [INFO] [face_auth.main] [logger.py:134] - 日志记录器 'face_auth.main' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:10:32 [INFO] [face_auth.main] [logger.py:134] - 日志记录器 'face_auth.main' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:10:32 [INFO] [face_auth.main] [main.py:168] - 程序启动...
+2025-07-04 19:10:32 [INFO] [face_auth.main] [main.py:168] - 程序启动...
+2025-07-04 19:10:32 [INFO] [face_auth.main] [main.py:169] - 调试模式: 关闭
+2025-07-04 19:10:32 [INFO] [face_auth.main] [main.py:169] - 调试模式: 关闭
+2025-07-04 19:10:32 [INFO] [face_auth.main] [main.py:107] - Python 版本: 3.8.10 (default, May 19 2021, 13:12:57) [MSC v.1916 64 bit (AMD64)]
+2025-07-04 19:10:32 [INFO] [face_auth.main] [main.py:107] - Python 版本: 3.8.10 (default, May 19 2021, 13:12:57) [MSC v.1916 64 bit (AMD64)]
+2025-07-04 19:10:32 [INFO] [face_auth.main] [main.py:108] - PyTorch 版本: 1.10.1+cu113
+2025-07-04 19:10:32 [INFO] [face_auth.main] [main.py:108] - PyTorch 版本: 1.10.1+cu113
+2025-07-04 19:10:32 [INFO] [face_auth.main] [main.py:109] - OpenCV 版本: 4.5.5
+2025-07-04 19:10:32 [INFO] [face_auth.main] [main.py:109] - OpenCV 版本: 4.5.5
+2025-07-04 19:10:32 [INFO] [face_auth.main] [main.py:110] - NumPy 版本: 1.24.4
+2025-07-04 19:10:32 [INFO] [face_auth.main] [main.py:110] - NumPy 版本: 1.24.4
+2025-07-04 19:10:32 [INFO] [face_auth.main] [main.py:111] - PyMySQL 版本: 1.0.2
+2025-07-04 19:10:32 [INFO] [face_auth.main] [main.py:111] - PyMySQL 版本: 1.0.2
+2025-07-04 19:10:32 [INFO] [face_auth.main] [main.py:115] - CUDA 可用: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:10:32 [INFO] [face_auth.main] [main.py:115] - CUDA 可用: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:10:33 [INFO] [face_auth.main] [main.py:122] - 摄像头检查通过
+2025-07-04 19:10:33 [INFO] [face_auth.main] [main.py:122] - 摄像头检查通过
+2025-07-04 19:10:34 [INFO] [face_auth.main] [main.py:144] - 数据库连接测试成功
+2025-07-04 19:10:34 [INFO] [face_auth.main] [main.py:144] - 数据库连接测试成功
+2025-07-04 19:10:34 [INFO] [face_auth.main] [main.py:199] - 使用数据库配置: {'host': 'localhost', 'user': 'root', 'password': '123456', 'db_name': 'face_auth', 'port': 3306, 'charset': 'utf8mb4', 'connect_timeout': 5, 'max_retries': 3}
+2025-07-04 19:10:34 [INFO] [face_auth.main] [main.py:199] - 使用数据库配置: {'host': 'localhost', 'user': 'root', 'password': '123456', 'db_name': 'face_auth', 'port': 3306, 'charset': 'utf8mb4', 'connect_timeout': 5, 'max_retries': 3}
+2025-07-04 19:10:34 [INFO] [face_auth.main] [main.py:203] - 正在创建QApplication实例...
+2025-07-04 19:10:34 [INFO] [face_auth.main] [main.py:203] - 正在创建QApplication实例...
+2025-07-04 19:10:34 [INFO] [face_auth.main] [main.py:213] - QApplication实例创建成功
+2025-07-04 19:10:34 [INFO] [face_auth.main] [main.py:213] - QApplication实例创建成功
+2025-07-04 19:10:34 [INFO] [face_auth.main] [main.py:222] - 正在创建登录窗口...
+2025-07-04 19:10:34 [INFO] [face_auth.main] [main.py:222] - 正在创建登录窗口...
+2025-07-04 19:10:34 [INFO] [face_auth.face_auth] [login_window.py:259] - 开始初始化登录窗口...
+2025-07-04 19:10:34 [INFO] [face_auth.face_auth] [login_window.py:259] - 开始初始化登录窗口...
+2025-07-04 19:10:34 [INFO] [face_auth.face_detector] [face_detector.py:30] - 使用设备: cuda
+2025-07-04 19:10:34 [INFO] [face_auth.face_detector] [face_detector.py:30] - 使用设备: cuda
+2025-07-04 19:10:34 [INFO] [face_auth.face_detector] [face_detector.py:32] - GPU设备: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:10:34 [INFO] [face_auth.face_detector] [face_detector.py:32] - GPU设备: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:10:34 [INFO] [face_auth.face_detector] [face_detector.py:33] - 可用显存: 8187.5MB
+2025-07-04 19:10:34 [INFO] [face_auth.face_detector] [face_detector.py:33] - 可用显存: 8187.5MB
+2025-07-04 19:10:34 [INFO] [face_auth.face_detector] [face_detector.py:39] - 正在初始化MTCNN人脸检测器...
+2025-07-04 19:10:34 [INFO] [face_auth.face_detector] [face_detector.py:39] - 正在初始化MTCNN人脸检测器...
+2025-07-04 19:10:34 [INFO] [face_auth.face_detector] [face_detector.py:52] - MTCNN模型加载成功
+2025-07-04 19:10:34 [INFO] [face_auth.face_detector] [face_detector.py:52] - MTCNN模型加载成功
+2025-07-04 19:10:34 [INFO] [face_auth.face_detector] [face_detector.py:62] - 正在从本地加载InceptionResnetV1模型: E:\Python\PyCharm_project\AI\face_auth\resources\models\20180402-114759-vggface2.pt
+2025-07-04 19:10:34 [INFO] [face_auth.face_detector] [face_detector.py:62] - 正在从本地加载InceptionResnetV1模型: E:\Python\PyCharm_project\AI\face_auth\resources\models\20180402-114759-vggface2.pt
+2025-07-04 19:10:35 [INFO] [face_auth.face_detector] [face_detector.py:69] - InceptionResnetV1本地模型加载成功
+2025-07-04 19:10:35 [INFO] [face_auth.face_detector] [face_detector.py:69] - InceptionResnetV1本地模型加载成功
+2025-07-04 19:10:35 [ERROR] [face_auth.face_auth] [login_window.py:300] - 初始化UI失败: 'LoginWindow' object has no attribute 'show_forgot_password_dialog'
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 297, in init_ui
+    self.create_login_area(main_layout)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 406, in create_login_area
+    forgot_pwd_link.clicked.connect(self.show_forgot_password_dialog)
+AttributeError: 'LoginWindow' object has no attribute 'show_forgot_password_dialog'
+
+2025-07-04 19:10:35 [ERROR] [face_auth.face_auth] [login_window.py:300] - 初始化UI失败: 'LoginWindow' object has no attribute 'show_forgot_password_dialog'
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 297, in init_ui
+    self.create_login_area(main_layout)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 406, in create_login_area
+    forgot_pwd_link.clicked.connect(self.show_forgot_password_dialog)
+AttributeError: 'LoginWindow' object has no attribute 'show_forgot_password_dialog'
+
+2025-07-04 19:10:35 [ERROR] [face_auth.face_auth] [login_window.py:277] - 初始化登录窗口失败: 'LoginWindow' object has no attribute 'error_message'
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 297, in init_ui
+    self.create_login_area(main_layout)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 406, in create_login_area
+    forgot_pwd_link.clicked.connect(self.show_forgot_password_dialog)
+AttributeError: 'LoginWindow' object has no attribute 'show_forgot_password_dialog'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 272, in __init__
+    self.init_ui()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 301, in init_ui
+    self.init_error_ui()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 671, in init_error_ui
+    self.error_label = QLabel(self.error_message)
+AttributeError: 'LoginWindow' object has no attribute 'error_message'
+
+2025-07-04 19:10:35 [ERROR] [face_auth.face_auth] [login_window.py:277] - 初始化登录窗口失败: 'LoginWindow' object has no attribute 'error_message'
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 297, in init_ui
+    self.create_login_area(main_layout)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 406, in create_login_area
+    forgot_pwd_link.clicked.connect(self.show_forgot_password_dialog)
+AttributeError: 'LoginWindow' object has no attribute 'show_forgot_password_dialog'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 272, in __init__
+    self.init_ui()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 301, in init_ui
+    self.init_error_ui()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 671, in init_error_ui
+    self.error_label = QLabel(self.error_message)
+AttributeError: 'LoginWindow' object has no attribute 'error_message'
+
+2025-07-04 19:10:35 [ERROR] [face_auth.main] [main.py:236] - 创建或显示登录窗口失败: 'LoginWindow' object has no attribute 'error_message'
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 297, in init_ui
+    self.create_login_area(main_layout)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 406, in create_login_area
+    forgot_pwd_link.clicked.connect(self.show_forgot_password_dialog)
+AttributeError: 'LoginWindow' object has no attribute 'show_forgot_password_dialog'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 272, in __init__
+    self.init_ui()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 301, in init_ui
+    self.init_error_ui()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 671, in init_error_ui
+    self.error_label = QLabel(self.error_message)
+AttributeError: 'LoginWindow' object has no attribute 'error_message'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\main.py", line 223, in main
+    window = LoginWindow(db_config)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 278, in __init__
+    self.init_error_ui()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 671, in init_error_ui
+    self.error_label = QLabel(self.error_message)
+AttributeError: 'LoginWindow' object has no attribute 'error_message'
+
+2025-07-04 19:10:35 [ERROR] [face_auth.main] [main.py:236] - 创建或显示登录窗口失败: 'LoginWindow' object has no attribute 'error_message'
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 297, in init_ui
+    self.create_login_area(main_layout)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 406, in create_login_area
+    forgot_pwd_link.clicked.connect(self.show_forgot_password_dialog)
+AttributeError: 'LoginWindow' object has no attribute 'show_forgot_password_dialog'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 272, in __init__
+    self.init_ui()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 301, in init_ui
+    self.init_error_ui()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 671, in init_error_ui
+    self.error_label = QLabel(self.error_message)
+AttributeError: 'LoginWindow' object has no attribute 'error_message'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\main.py", line 223, in main
+    window = LoginWindow(db_config)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 278, in __init__
+    self.init_error_ui()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 671, in init_error_ui
+    self.error_label = QLabel(self.error_message)
+AttributeError: 'LoginWindow' object has no attribute 'error_message'
+
+2025-07-04 19:10:38 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:10:38 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:10:38 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:10:38 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:10:38 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:10:38 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:10:38 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:10:38 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:10:38 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:10:38 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:10:38 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:10:38 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:10:38 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:10:38 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:10:38 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:10:38 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:10:38 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:10:38 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:12:56 [INFO] [face_auth] [logger.py:134] - 日志记录器 'face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:12:56 [INFO] [face_auth.models] [logger.py:134] - 日志记录器 'face_auth.models' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:12:56 [INFO] [face_auth.models] [logger.py:134] - 日志记录器 'face_auth.models' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:12:57 [INFO] [face_auth.face_detector] [logger.py:134] - 日志记录器 'face_auth.face_detector' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:12:57 [INFO] [face_auth.face_detector] [logger.py:134] - 日志记录器 'face_auth.face_detector' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:12:57 [INFO] [face_auth.face_utils] [logger.py:134] - 日志记录器 'face_auth.face_utils' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:12:57 [INFO] [face_auth.face_utils] [logger.py:134] - 日志记录器 'face_auth.face_utils' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:12:57 [INFO] [face_auth.face_auth.authenticator] [logger.py:134] - 日志记录器 'face_auth.face_auth.authenticator' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:12:57 [INFO] [face_auth.face_auth.authenticator] [logger.py:134] - 日志记录器 'face_auth.face_auth.authenticator' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:12:57 [INFO] [face_auth.validators] [logger.py:134] - 日志记录器 'face_auth.validators' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:12:57 [INFO] [face_auth.validators] [logger.py:134] - 日志记录器 'face_auth.validators' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:12:57 [INFO] [face_auth.message_box] [logger.py:134] - 日志记录器 'face_auth.message_box' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:12:57 [INFO] [face_auth.message_box] [logger.py:134] - 日志记录器 'face_auth.message_box' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:12:57 [INFO] [face_auth.face_auth] [logger.py:134] - 日志记录器 'face_auth.face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:12:57 [INFO] [face_auth.face_auth] [logger.py:134] - 日志记录器 'face_auth.face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:12:57 [INFO] [face_auth.main] [logger.py:134] - 日志记录器 'face_auth.main' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:12:57 [INFO] [face_auth.main] [logger.py:134] - 日志记录器 'face_auth.main' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:12:57 [INFO] [face_auth.main] [main.py:168] - 程序启动...
+2025-07-04 19:12:57 [INFO] [face_auth.main] [main.py:168] - 程序启动...
+2025-07-04 19:12:57 [INFO] [face_auth.main] [main.py:169] - 调试模式: 关闭
+2025-07-04 19:12:57 [INFO] [face_auth.main] [main.py:169] - 调试模式: 关闭
+2025-07-04 19:12:57 [INFO] [face_auth.main] [main.py:107] - Python 版本: 3.8.10 (default, May 19 2021, 13:12:57) [MSC v.1916 64 bit (AMD64)]
+2025-07-04 19:12:57 [INFO] [face_auth.main] [main.py:107] - Python 版本: 3.8.10 (default, May 19 2021, 13:12:57) [MSC v.1916 64 bit (AMD64)]
+2025-07-04 19:12:57 [INFO] [face_auth.main] [main.py:108] - PyTorch 版本: 1.10.1+cu113
+2025-07-04 19:12:57 [INFO] [face_auth.main] [main.py:108] - PyTorch 版本: 1.10.1+cu113
+2025-07-04 19:12:57 [INFO] [face_auth.main] [main.py:109] - OpenCV 版本: 4.5.5
+2025-07-04 19:12:57 [INFO] [face_auth.main] [main.py:109] - OpenCV 版本: 4.5.5
+2025-07-04 19:12:57 [INFO] [face_auth.main] [main.py:110] - NumPy 版本: 1.24.4
+2025-07-04 19:12:57 [INFO] [face_auth.main] [main.py:110] - NumPy 版本: 1.24.4
+2025-07-04 19:12:57 [INFO] [face_auth.main] [main.py:111] - PyMySQL 版本: 1.0.2
+2025-07-04 19:12:57 [INFO] [face_auth.main] [main.py:111] - PyMySQL 版本: 1.0.2
+2025-07-04 19:12:57 [INFO] [face_auth.main] [main.py:115] - CUDA 可用: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:12:57 [INFO] [face_auth.main] [main.py:115] - CUDA 可用: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:12:59 [INFO] [face_auth.main] [main.py:122] - 摄像头检查通过
+2025-07-04 19:12:59 [INFO] [face_auth.main] [main.py:122] - 摄像头检查通过
+2025-07-04 19:12:59 [INFO] [face_auth.main] [main.py:144] - 数据库连接测试成功
+2025-07-04 19:12:59 [INFO] [face_auth.main] [main.py:144] - 数据库连接测试成功
+2025-07-04 19:12:59 [INFO] [face_auth.main] [main.py:199] - 使用数据库配置: {'host': 'localhost', 'user': 'root', 'password': '123456', 'db_name': 'face_auth', 'port': 3306, 'charset': 'utf8mb4', 'connect_timeout': 5, 'max_retries': 3}
+2025-07-04 19:12:59 [INFO] [face_auth.main] [main.py:199] - 使用数据库配置: {'host': 'localhost', 'user': 'root', 'password': '123456', 'db_name': 'face_auth', 'port': 3306, 'charset': 'utf8mb4', 'connect_timeout': 5, 'max_retries': 3}
+2025-07-04 19:12:59 [INFO] [face_auth.main] [main.py:203] - 正在创建QApplication实例...
+2025-07-04 19:12:59 [INFO] [face_auth.main] [main.py:203] - 正在创建QApplication实例...
+2025-07-04 19:12:59 [INFO] [face_auth.main] [main.py:213] - QApplication实例创建成功
+2025-07-04 19:12:59 [INFO] [face_auth.main] [main.py:213] - QApplication实例创建成功
+2025-07-04 19:12:59 [INFO] [face_auth.main] [main.py:222] - 正在创建登录窗口...
+2025-07-04 19:12:59 [INFO] [face_auth.main] [main.py:222] - 正在创建登录窗口...
+2025-07-04 19:12:59 [INFO] [face_auth.face_auth] [login_window.py:259] - 开始初始化登录窗口...
+2025-07-04 19:12:59 [INFO] [face_auth.face_auth] [login_window.py:259] - 开始初始化登录窗口...
+2025-07-04 19:12:59 [INFO] [face_auth.face_detector] [face_detector.py:30] - 使用设备: cuda
+2025-07-04 19:12:59 [INFO] [face_auth.face_detector] [face_detector.py:30] - 使用设备: cuda
+2025-07-04 19:12:59 [INFO] [face_auth.face_detector] [face_detector.py:32] - GPU设备: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:12:59 [INFO] [face_auth.face_detector] [face_detector.py:32] - GPU设备: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:12:59 [INFO] [face_auth.face_detector] [face_detector.py:33] - 可用显存: 8187.5MB
+2025-07-04 19:12:59 [INFO] [face_auth.face_detector] [face_detector.py:33] - 可用显存: 8187.5MB
+2025-07-04 19:12:59 [INFO] [face_auth.face_detector] [face_detector.py:39] - 正在初始化MTCNN人脸检测器...
+2025-07-04 19:12:59 [INFO] [face_auth.face_detector] [face_detector.py:39] - 正在初始化MTCNN人脸检测器...
+2025-07-04 19:12:59 [INFO] [face_auth.face_detector] [face_detector.py:52] - MTCNN模型加载成功
+2025-07-04 19:12:59 [INFO] [face_auth.face_detector] [face_detector.py:52] - MTCNN模型加载成功
+2025-07-04 19:12:59 [INFO] [face_auth.face_detector] [face_detector.py:62] - 正在从本地加载InceptionResnetV1模型: E:\Python\PyCharm_project\AI\face_auth\resources\models\20180402-114759-vggface2.pt
+2025-07-04 19:12:59 [INFO] [face_auth.face_detector] [face_detector.py:62] - 正在从本地加载InceptionResnetV1模型: E:\Python\PyCharm_project\AI\face_auth\resources\models\20180402-114759-vggface2.pt
+2025-07-04 19:13:01 [INFO] [face_auth.face_detector] [face_detector.py:69] - InceptionResnetV1本地模型加载成功
+2025-07-04 19:13:01 [INFO] [face_auth.face_detector] [face_detector.py:69] - InceptionResnetV1本地模型加载成功
+2025-07-04 19:13:01 [INFO] [face_auth.face_auth] [login_window.py:274] - 登录窗口初始化完成
+2025-07-04 19:13:01 [INFO] [face_auth.face_auth] [login_window.py:274] - 登录窗口初始化完成
+2025-07-04 19:13:01 [INFO] [face_auth.main] [main.py:224] - 登录窗口创建成功，准备显示...
+2025-07-04 19:13:01 [INFO] [face_auth.main] [main.py:224] - 登录窗口创建成功，准备显示...
+2025-07-04 19:13:01 [INFO] [face_auth.main] [main.py:226] - 登录窗口已显示
+2025-07-04 19:13:01 [INFO] [face_auth.main] [main.py:226] - 登录窗口已显示
+2025-07-04 19:13:01 [INFO] [face_auth.main] [main.py:229] - 开始运行应用事件循环...
+2025-07-04 19:13:01 [INFO] [face_auth.main] [main.py:229] - 开始运行应用事件循环...
+2025-07-04 19:13:15 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:323] - 用户角色信息: 2, 类型: <class 'int'>
+2025-07-04 19:13:15 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:323] - 用户角色信息: 2, 类型: <class 'int'>
+2025-07-04 19:13:15 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:323] - 用户角色信息: 2, 类型: <class 'int'>
+2025-07-04 19:13:15 [INFO] [face_auth.main_window] [logger.py:134] - 日志记录器 'face_auth.main_window' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:13:15 [INFO] [face_auth.main_window] [logger.py:134] - 日志记录器 'face_auth.main_window' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:13:15 [INFO] [face_auth.main_window] [main_window.py:36] - 开始初始化主窗口 (用户: ashu)...
+2025-07-04 19:13:15 [INFO] [face_auth.main_window] [main_window.py:36] - 开始初始化主窗口 (用户: ashu)...
+2025-07-04 19:13:15 [INFO] [face_auth.main_window] [main_window.py:46] - 正在初始化主窗口UI...
+2025-07-04 19:13:15 [INFO] [face_auth.main_window] [main_window.py:46] - 正在初始化主窗口UI...
+2025-07-04 19:13:15 [INFO] [face_auth.main_window] [main_window.py:48] - 主窗口UI初始化完成
+2025-07-04 19:13:15 [INFO] [face_auth.main_window] [main_window.py:48] - 主窗口UI初始化完成
+2025-07-04 19:13:15 [INFO] [face_auth.main_window] [main_window.py:54] - 主窗口已创建，用户: ashu
+2025-07-04 19:13:15 [INFO] [face_auth.main_window] [main_window.py:54] - 主窗口已创建，用户: ashu
+2025-07-04 19:13:56 [INFO] [face_auth.face_auth] [register_window.py:139] - 正在初始化注册窗口...
+2025-07-04 19:13:56 [INFO] [face_auth.face_auth] [register_window.py:139] - 正在初始化注册窗口...
+2025-07-04 19:13:56 [INFO] [face_auth.face_auth] [register_window.py:144] - 使用传入的Authenticator实例
+2025-07-04 19:13:56 [INFO] [face_auth.face_auth] [register_window.py:144] - 使用传入的Authenticator实例
+2025-07-04 19:13:56 [INFO] [face_auth.face_auth] [register_window.py:165] - 正在初始化UI...
+2025-07-04 19:13:56 [INFO] [face_auth.face_auth] [register_window.py:165] - 正在初始化UI...
+2025-07-04 19:13:56 [INFO] [face_auth.face_auth] [register_window.py:167] - 注册窗口初始化完成
+2025-07-04 19:13:56 [INFO] [face_auth.face_auth] [register_window.py:167] - 注册窗口初始化完成
+2025-07-04 19:14:11 [INFO] [face_auth.message_box] [message_box.py:70] - 询问消息: 确定要退出登录吗？
+2025-07-04 19:14:11 [INFO] [face_auth.message_box] [message_box.py:70] - 询问消息: 确定要退出登录吗？
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:14:13 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:14:44 [ERROR] [face_auth.face_auth] [login_window.py:55] - 登录线程出错: 'NoneType' object has no attribute 'verify_password'
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 47, in run
+    login_result = self.authenticator.login(self.username, self.password)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\auth\authenticator.py", line 313, in login
+    success, message = self.authenticate_password_only(username, password)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\auth\authenticator.py", line 185, in authenticate_password_only
+    if self.db.verify_password(username, password):
+AttributeError: 'NoneType' object has no attribute 'verify_password'
+
+2025-07-04 19:14:44 [ERROR] [face_auth.face_auth] [login_window.py:55] - 登录线程出错: 'NoneType' object has no attribute 'verify_password'
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 47, in run
+    login_result = self.authenticator.login(self.username, self.password)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\auth\authenticator.py", line 313, in login
+    success, message = self.authenticate_password_only(username, password)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\auth\authenticator.py", line 185, in authenticate_password_only
+    if self.db.verify_password(username, password):
+AttributeError: 'NoneType' object has no attribute 'verify_password'
+
+2025-07-04 19:14:44 [WARNING] [face_auth.message_box] [message_box.py:45] - 警告消息: 登录出错: 'NoneType' object has no attribute 'verify_password'
+2025-07-04 19:14:44 [WARNING] [face_auth.message_box] [message_box.py:45] - 警告消息: 登录出错: 'NoneType' object has no attribute 'verify_password'
+2025-07-04 19:14:50 [ERROR] [face_auth.face_auth] [login_window.py:55] - 登录线程出错: 'NoneType' object has no attribute 'verify_password'
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 47, in run
+    login_result = self.authenticator.login(self.username, self.password)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\auth\authenticator.py", line 313, in login
+    success, message = self.authenticate_password_only(username, password)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\auth\authenticator.py", line 185, in authenticate_password_only
+    if self.db.verify_password(username, password):
+AttributeError: 'NoneType' object has no attribute 'verify_password'
+
+2025-07-04 19:14:50 [ERROR] [face_auth.face_auth] [login_window.py:55] - 登录线程出错: 'NoneType' object has no attribute 'verify_password'
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 47, in run
+    login_result = self.authenticator.login(self.username, self.password)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\auth\authenticator.py", line 313, in login
+    success, message = self.authenticate_password_only(username, password)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\auth\authenticator.py", line 185, in authenticate_password_only
+    if self.db.verify_password(username, password):
+AttributeError: 'NoneType' object has no attribute 'verify_password'
+
+2025-07-04 19:14:50 [WARNING] [face_auth.message_box] [message_box.py:45] - 警告消息: 登录出错: 'NoneType' object has no attribute 'verify_password'
+2025-07-04 19:14:50 [WARNING] [face_auth.message_box] [message_box.py:45] - 警告消息: 登录出错: 'NoneType' object has no attribute 'verify_password'
+2025-07-04 19:15:01 [ERROR] [face_auth.face_auth] [login_window.py:55] - 登录线程出错: 'NoneType' object has no attribute 'verify_password'
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 47, in run
+    login_result = self.authenticator.login(self.username, self.password)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\auth\authenticator.py", line 313, in login
+    success, message = self.authenticate_password_only(username, password)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\auth\authenticator.py", line 185, in authenticate_password_only
+    if self.db.verify_password(username, password):
+AttributeError: 'NoneType' object has no attribute 'verify_password'
+
+2025-07-04 19:15:01 [ERROR] [face_auth.face_auth] [login_window.py:55] - 登录线程出错: 'NoneType' object has no attribute 'verify_password'
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 47, in run
+    login_result = self.authenticator.login(self.username, self.password)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\auth\authenticator.py", line 313, in login
+    success, message = self.authenticate_password_only(username, password)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\auth\authenticator.py", line 185, in authenticate_password_only
+    if self.db.verify_password(username, password):
+AttributeError: 'NoneType' object has no attribute 'verify_password'
+
+2025-07-04 19:15:01 [WARNING] [face_auth.message_box] [message_box.py:45] - 警告消息: 登录出错: 'NoneType' object has no attribute 'verify_password'
+2025-07-04 19:15:01 [WARNING] [face_auth.message_box] [message_box.py:45] - 警告消息: 登录出错: 'NoneType' object has no attribute 'verify_password'
+2025-07-04 19:15:04 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:15:04 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:15:04 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:15:04 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:15:04 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:15:04 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:15:04 [INFO] [face_auth.main] [main.py:231] - 应用事件循环结束，返回值: 0
+2025-07-04 19:15:04 [INFO] [face_auth.main] [main.py:231] - 应用事件循环结束，返回值: 0
+2025-07-04 19:15:10 [INFO] [face_auth] [logger.py:134] - 日志记录器 'face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:15:10 [INFO] [face_auth.models] [logger.py:134] - 日志记录器 'face_auth.models' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:15:10 [INFO] [face_auth.models] [logger.py:134] - 日志记录器 'face_auth.models' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:15:11 [INFO] [face_auth.face_detector] [logger.py:134] - 日志记录器 'face_auth.face_detector' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:15:11 [INFO] [face_auth.face_detector] [logger.py:134] - 日志记录器 'face_auth.face_detector' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:15:11 [INFO] [face_auth.face_utils] [logger.py:134] - 日志记录器 'face_auth.face_utils' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:15:11 [INFO] [face_auth.face_utils] [logger.py:134] - 日志记录器 'face_auth.face_utils' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:15:11 [INFO] [face_auth.face_auth.authenticator] [logger.py:134] - 日志记录器 'face_auth.face_auth.authenticator' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:15:11 [INFO] [face_auth.face_auth.authenticator] [logger.py:134] - 日志记录器 'face_auth.face_auth.authenticator' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:15:11 [INFO] [face_auth.validators] [logger.py:134] - 日志记录器 'face_auth.validators' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:15:11 [INFO] [face_auth.validators] [logger.py:134] - 日志记录器 'face_auth.validators' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:15:11 [INFO] [face_auth.message_box] [logger.py:134] - 日志记录器 'face_auth.message_box' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:15:11 [INFO] [face_auth.message_box] [logger.py:134] - 日志记录器 'face_auth.message_box' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:15:11 [INFO] [face_auth.face_auth] [logger.py:134] - 日志记录器 'face_auth.face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:15:11 [INFO] [face_auth.face_auth] [logger.py:134] - 日志记录器 'face_auth.face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:15:11 [INFO] [face_auth.main] [logger.py:134] - 日志记录器 'face_auth.main' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:15:11 [INFO] [face_auth.main] [logger.py:134] - 日志记录器 'face_auth.main' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:15:11 [INFO] [face_auth.main] [main.py:168] - 程序启动...
+2025-07-04 19:15:11 [INFO] [face_auth.main] [main.py:168] - 程序启动...
+2025-07-04 19:15:11 [INFO] [face_auth.main] [main.py:169] - 调试模式: 关闭
+2025-07-04 19:15:11 [INFO] [face_auth.main] [main.py:169] - 调试模式: 关闭
+2025-07-04 19:15:11 [INFO] [face_auth.main] [main.py:107] - Python 版本: 3.8.10 (default, May 19 2021, 13:12:57) [MSC v.1916 64 bit (AMD64)]
+2025-07-04 19:15:11 [INFO] [face_auth.main] [main.py:107] - Python 版本: 3.8.10 (default, May 19 2021, 13:12:57) [MSC v.1916 64 bit (AMD64)]
+2025-07-04 19:15:11 [INFO] [face_auth.main] [main.py:108] - PyTorch 版本: 1.10.1+cu113
+2025-07-04 19:15:11 [INFO] [face_auth.main] [main.py:108] - PyTorch 版本: 1.10.1+cu113
+2025-07-04 19:15:11 [INFO] [face_auth.main] [main.py:109] - OpenCV 版本: 4.5.5
+2025-07-04 19:15:11 [INFO] [face_auth.main] [main.py:109] - OpenCV 版本: 4.5.5
+2025-07-04 19:15:11 [INFO] [face_auth.main] [main.py:110] - NumPy 版本: 1.24.4
+2025-07-04 19:15:11 [INFO] [face_auth.main] [main.py:110] - NumPy 版本: 1.24.4
+2025-07-04 19:15:11 [INFO] [face_auth.main] [main.py:111] - PyMySQL 版本: 1.0.2
+2025-07-04 19:15:11 [INFO] [face_auth.main] [main.py:111] - PyMySQL 版本: 1.0.2
+2025-07-04 19:15:11 [INFO] [face_auth.main] [main.py:115] - CUDA 可用: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:15:11 [INFO] [face_auth.main] [main.py:115] - CUDA 可用: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:15:12 [INFO] [face_auth.main] [main.py:122] - 摄像头检查通过
+2025-07-04 19:15:12 [INFO] [face_auth.main] [main.py:122] - 摄像头检查通过
+2025-07-04 19:15:12 [INFO] [face_auth.main] [main.py:144] - 数据库连接测试成功
+2025-07-04 19:15:12 [INFO] [face_auth.main] [main.py:144] - 数据库连接测试成功
+2025-07-04 19:15:12 [INFO] [face_auth.main] [main.py:199] - 使用数据库配置: {'host': 'localhost', 'user': 'root', 'password': '123456', 'db_name': 'face_auth', 'port': 3306, 'charset': 'utf8mb4', 'connect_timeout': 5, 'max_retries': 3}
+2025-07-04 19:15:12 [INFO] [face_auth.main] [main.py:199] - 使用数据库配置: {'host': 'localhost', 'user': 'root', 'password': '123456', 'db_name': 'face_auth', 'port': 3306, 'charset': 'utf8mb4', 'connect_timeout': 5, 'max_retries': 3}
+2025-07-04 19:15:12 [INFO] [face_auth.main] [main.py:203] - 正在创建QApplication实例...
+2025-07-04 19:15:12 [INFO] [face_auth.main] [main.py:203] - 正在创建QApplication实例...
+2025-07-04 19:15:12 [INFO] [face_auth.main] [main.py:213] - QApplication实例创建成功
+2025-07-04 19:15:12 [INFO] [face_auth.main] [main.py:213] - QApplication实例创建成功
+2025-07-04 19:15:12 [INFO] [face_auth.main] [main.py:222] - 正在创建登录窗口...
+2025-07-04 19:15:12 [INFO] [face_auth.main] [main.py:222] - 正在创建登录窗口...
+2025-07-04 19:15:12 [INFO] [face_auth.face_auth] [login_window.py:259] - 开始初始化登录窗口...
+2025-07-04 19:15:12 [INFO] [face_auth.face_auth] [login_window.py:259] - 开始初始化登录窗口...
+2025-07-04 19:15:12 [INFO] [face_auth.face_detector] [face_detector.py:30] - 使用设备: cuda
+2025-07-04 19:15:12 [INFO] [face_auth.face_detector] [face_detector.py:30] - 使用设备: cuda
+2025-07-04 19:15:12 [INFO] [face_auth.face_detector] [face_detector.py:32] - GPU设备: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:15:12 [INFO] [face_auth.face_detector] [face_detector.py:32] - GPU设备: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:15:12 [INFO] [face_auth.face_detector] [face_detector.py:33] - 可用显存: 8187.5MB
+2025-07-04 19:15:12 [INFO] [face_auth.face_detector] [face_detector.py:33] - 可用显存: 8187.5MB
+2025-07-04 19:15:12 [INFO] [face_auth.face_detector] [face_detector.py:39] - 正在初始化MTCNN人脸检测器...
+2025-07-04 19:15:12 [INFO] [face_auth.face_detector] [face_detector.py:39] - 正在初始化MTCNN人脸检测器...
+2025-07-04 19:15:12 [INFO] [face_auth.face_detector] [face_detector.py:52] - MTCNN模型加载成功
+2025-07-04 19:15:12 [INFO] [face_auth.face_detector] [face_detector.py:52] - MTCNN模型加载成功
+2025-07-04 19:15:12 [INFO] [face_auth.face_detector] [face_detector.py:62] - 正在从本地加载InceptionResnetV1模型: E:\Python\PyCharm_project\AI\face_auth\resources\models\20180402-114759-vggface2.pt
+2025-07-04 19:15:12 [INFO] [face_auth.face_detector] [face_detector.py:62] - 正在从本地加载InceptionResnetV1模型: E:\Python\PyCharm_project\AI\face_auth\resources\models\20180402-114759-vggface2.pt
+2025-07-04 19:15:14 [INFO] [face_auth.face_detector] [face_detector.py:69] - InceptionResnetV1本地模型加载成功
+2025-07-04 19:15:14 [INFO] [face_auth.face_detector] [face_detector.py:69] - InceptionResnetV1本地模型加载成功
+2025-07-04 19:15:14 [INFO] [face_auth.face_auth] [login_window.py:274] - 登录窗口初始化完成
+2025-07-04 19:15:14 [INFO] [face_auth.face_auth] [login_window.py:274] - 登录窗口初始化完成
+2025-07-04 19:15:14 [INFO] [face_auth.main] [main.py:224] - 登录窗口创建成功，准备显示...
+2025-07-04 19:15:14 [INFO] [face_auth.main] [main.py:224] - 登录窗口创建成功，准备显示...
+2025-07-04 19:15:14 [INFO] [face_auth.main] [main.py:226] - 登录窗口已显示
+2025-07-04 19:15:14 [INFO] [face_auth.main] [main.py:226] - 登录窗口已显示
+2025-07-04 19:15:14 [INFO] [face_auth.main] [main.py:229] - 开始运行应用事件循环...
+2025-07-04 19:15:14 [INFO] [face_auth.main] [main.py:229] - 开始运行应用事件循环...
+2025-07-04 19:15:21 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:323] - 用户角色信息: 2, 类型: <class 'int'>
+2025-07-04 19:15:21 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:323] - 用户角色信息: 2, 类型: <class 'int'>
+2025-07-04 19:15:21 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:323] - 用户角色信息: 2, 类型: <class 'int'>
+2025-07-04 19:15:21 [INFO] [face_auth.main_window] [logger.py:134] - 日志记录器 'face_auth.main_window' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:15:21 [INFO] [face_auth.main_window] [logger.py:134] - 日志记录器 'face_auth.main_window' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:15:21 [INFO] [face_auth.main_window] [main_window.py:36] - 开始初始化主窗口 (用户: ashu)...
+2025-07-04 19:15:21 [INFO] [face_auth.main_window] [main_window.py:36] - 开始初始化主窗口 (用户: ashu)...
+2025-07-04 19:15:21 [INFO] [face_auth.main_window] [main_window.py:46] - 正在初始化主窗口UI...
+2025-07-04 19:15:21 [INFO] [face_auth.main_window] [main_window.py:46] - 正在初始化主窗口UI...
+2025-07-04 19:15:21 [INFO] [face_auth.main_window] [main_window.py:48] - 主窗口UI初始化完成
+2025-07-04 19:15:21 [INFO] [face_auth.main_window] [main_window.py:48] - 主窗口UI初始化完成
+2025-07-04 19:15:21 [INFO] [face_auth.main_window] [main_window.py:54] - 主窗口已创建，用户: ashu
+2025-07-04 19:15:21 [INFO] [face_auth.main_window] [main_window.py:54] - 主窗口已创建，用户: ashu
+2025-07-04 19:15:24 [INFO] [face_auth.message_box] [message_box.py:70] - 询问消息: 确定要退出登录吗？
+2025-07-04 19:15:24 [INFO] [face_auth.message_box] [message_box.py:70] - 询问消息: 确定要退出登录吗？
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:15:25 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:15:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:15:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:15:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:15:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:15:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:15:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:15:26 [INFO] [face_auth.main] [main.py:231] - 应用事件循环结束，返回值: 0
+2025-07-04 19:15:26 [INFO] [face_auth.main] [main.py:231] - 应用事件循环结束，返回值: 0
+2025-07-04 19:16:14 [INFO] [face_auth] [logger.py:134] - 日志记录器 'face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:16:14 [INFO] [face_auth.models] [logger.py:134] - 日志记录器 'face_auth.models' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:16:14 [INFO] [face_auth.models] [logger.py:134] - 日志记录器 'face_auth.models' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:16:14 [INFO] [face_auth.face_detector] [logger.py:134] - 日志记录器 'face_auth.face_detector' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:16:14 [INFO] [face_auth.face_detector] [logger.py:134] - 日志记录器 'face_auth.face_detector' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:16:14 [INFO] [face_auth.face_utils] [logger.py:134] - 日志记录器 'face_auth.face_utils' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:16:14 [INFO] [face_auth.face_utils] [logger.py:134] - 日志记录器 'face_auth.face_utils' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:16:14 [INFO] [face_auth.face_auth.authenticator] [logger.py:134] - 日志记录器 'face_auth.face_auth.authenticator' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:16:14 [INFO] [face_auth.face_auth.authenticator] [logger.py:134] - 日志记录器 'face_auth.face_auth.authenticator' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:16:14 [INFO] [face_auth.validators] [logger.py:134] - 日志记录器 'face_auth.validators' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:16:14 [INFO] [face_auth.validators] [logger.py:134] - 日志记录器 'face_auth.validators' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:16:14 [INFO] [face_auth.message_box] [logger.py:134] - 日志记录器 'face_auth.message_box' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:16:14 [INFO] [face_auth.message_box] [logger.py:134] - 日志记录器 'face_auth.message_box' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:16:14 [INFO] [face_auth.face_auth] [logger.py:134] - 日志记录器 'face_auth.face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:16:14 [INFO] [face_auth.face_auth] [logger.py:134] - 日志记录器 'face_auth.face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:16:14 [INFO] [face_auth.main] [logger.py:134] - 日志记录器 'face_auth.main' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:16:14 [INFO] [face_auth.main] [logger.py:134] - 日志记录器 'face_auth.main' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:16:14 [INFO] [face_auth.main] [main.py:166] - 程序启动...
+2025-07-04 19:16:14 [INFO] [face_auth.main] [main.py:166] - 程序启动...
+2025-07-04 19:16:14 [INFO] [face_auth.main] [main.py:167] - 调试模式: 关闭
+2025-07-04 19:16:14 [INFO] [face_auth.main] [main.py:167] - 调试模式: 关闭
+2025-07-04 19:16:14 [INFO] [face_auth.main] [main.py:105] - Python 版本: 3.8.10 (default, May 19 2021, 13:12:57) [MSC v.1916 64 bit (AMD64)]
+2025-07-04 19:16:14 [INFO] [face_auth.main] [main.py:105] - Python 版本: 3.8.10 (default, May 19 2021, 13:12:57) [MSC v.1916 64 bit (AMD64)]
+2025-07-04 19:16:14 [INFO] [face_auth.main] [main.py:106] - PyTorch 版本: 1.10.1+cu113
+2025-07-04 19:16:14 [INFO] [face_auth.main] [main.py:106] - PyTorch 版本: 1.10.1+cu113
+2025-07-04 19:16:14 [INFO] [face_auth.main] [main.py:107] - OpenCV 版本: 4.5.5
+2025-07-04 19:16:14 [INFO] [face_auth.main] [main.py:107] - OpenCV 版本: 4.5.5
+2025-07-04 19:16:14 [INFO] [face_auth.main] [main.py:108] - NumPy 版本: 1.24.4
+2025-07-04 19:16:14 [INFO] [face_auth.main] [main.py:108] - NumPy 版本: 1.24.4
+2025-07-04 19:16:14 [INFO] [face_auth.main] [main.py:109] - PyMySQL 版本: 1.0.2
+2025-07-04 19:16:14 [INFO] [face_auth.main] [main.py:109] - PyMySQL 版本: 1.0.2
+2025-07-04 19:16:14 [INFO] [face_auth.main] [main.py:113] - CUDA 可用: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:16:14 [INFO] [face_auth.main] [main.py:113] - CUDA 可用: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:16:16 [INFO] [face_auth.main] [main.py:120] - 摄像头检查通过
+2025-07-04 19:16:16 [INFO] [face_auth.main] [main.py:120] - 摄像头检查通过
+2025-07-04 19:16:16 [INFO] [face_auth.main] [main.py:142] - 数据库连接测试成功
+2025-07-04 19:16:16 [INFO] [face_auth.main] [main.py:142] - 数据库连接测试成功
+2025-07-04 19:16:16 [INFO] [face_auth.main] [main.py:197] - 使用数据库配置: {'host': 'localhost', 'user': 'root', 'password': '123456', 'db_name': 'face_auth', 'port': 3306, 'charset': 'utf8mb4', 'connect_timeout': 5, 'max_retries': 3}
+2025-07-04 19:16:16 [INFO] [face_auth.main] [main.py:197] - 使用数据库配置: {'host': 'localhost', 'user': 'root', 'password': '123456', 'db_name': 'face_auth', 'port': 3306, 'charset': 'utf8mb4', 'connect_timeout': 5, 'max_retries': 3}
+2025-07-04 19:16:16 [INFO] [face_auth.main] [main.py:201] - 正在创建QApplication实例...
+2025-07-04 19:16:16 [INFO] [face_auth.main] [main.py:201] - 正在创建QApplication实例...
+2025-07-04 19:16:16 [INFO] [face_auth.main] [main.py:203] - QApplication实例创建成功
+2025-07-04 19:16:16 [INFO] [face_auth.main] [main.py:203] - QApplication实例创建成功
+2025-07-04 19:16:16 [INFO] [face_auth.main] [main.py:212] - 正在创建登录窗口...
+2025-07-04 19:16:16 [INFO] [face_auth.main] [main.py:212] - 正在创建登录窗口...
+2025-07-04 19:16:16 [INFO] [face_auth.face_auth] [login_window.py:262] - 开始初始化登录窗口...
+2025-07-04 19:16:16 [INFO] [face_auth.face_auth] [login_window.py:262] - 开始初始化登录窗口...
+2025-07-04 19:16:16 [INFO] [face_auth.face_auth] [login_window.py:271] - 正在初始化认证器...
+2025-07-04 19:16:16 [INFO] [face_auth.face_auth] [login_window.py:271] - 正在初始化认证器...
+2025-07-04 19:16:16 [INFO] [face_auth.face_detector] [face_detector.py:30] - 使用设备: cuda
+2025-07-04 19:16:16 [INFO] [face_auth.face_detector] [face_detector.py:30] - 使用设备: cuda
+2025-07-04 19:16:16 [INFO] [face_auth.face_detector] [face_detector.py:32] - GPU设备: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:16:16 [INFO] [face_auth.face_detector] [face_detector.py:32] - GPU设备: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:16:16 [INFO] [face_auth.face_detector] [face_detector.py:33] - 可用显存: 8187.5MB
+2025-07-04 19:16:16 [INFO] [face_auth.face_detector] [face_detector.py:33] - 可用显存: 8187.5MB
+2025-07-04 19:16:16 [INFO] [face_auth.face_detector] [face_detector.py:39] - 正在初始化MTCNN人脸检测器...
+2025-07-04 19:16:16 [INFO] [face_auth.face_detector] [face_detector.py:39] - 正在初始化MTCNN人脸检测器...
+2025-07-04 19:16:16 [INFO] [face_auth.face_detector] [face_detector.py:52] - MTCNN模型加载成功
+2025-07-04 19:16:16 [INFO] [face_auth.face_detector] [face_detector.py:52] - MTCNN模型加载成功
+2025-07-04 19:16:16 [INFO] [face_auth.face_detector] [face_detector.py:62] - 正在从本地加载InceptionResnetV1模型: E:\Python\PyCharm_project\AI\face_auth\resources\models\20180402-114759-vggface2.pt
+2025-07-04 19:16:16 [INFO] [face_auth.face_detector] [face_detector.py:62] - 正在从本地加载InceptionResnetV1模型: E:\Python\PyCharm_project\AI\face_auth\resources\models\20180402-114759-vggface2.pt
+2025-07-04 19:16:17 [INFO] [face_auth.face_detector] [face_detector.py:69] - InceptionResnetV1本地模型加载成功
+2025-07-04 19:16:17 [INFO] [face_auth.face_detector] [face_detector.py:69] - InceptionResnetV1本地模型加载成功
+2025-07-04 19:16:17 [INFO] [face_auth.face_auth] [login_window.py:273] - 认证器初始化完成
+2025-07-04 19:16:17 [INFO] [face_auth.face_auth] [login_window.py:273] - 认证器初始化完成
+2025-07-04 19:16:17 [INFO] [face_auth.face_auth] [login_window.py:282] - 正在初始化UI...
+2025-07-04 19:16:17 [INFO] [face_auth.face_auth] [login_window.py:282] - 正在初始化UI...
+2025-07-04 19:16:17 [INFO] [face_auth.face_auth] [login_window.py:284] - UI初始化完成
+2025-07-04 19:16:17 [INFO] [face_auth.face_auth] [login_window.py:284] - UI初始化完成
+2025-07-04 19:16:17 [INFO] [face_auth.main] [main.py:214] - 登录窗口创建成功，准备显示...
+2025-07-04 19:16:17 [INFO] [face_auth.main] [main.py:214] - 登录窗口创建成功，准备显示...
+2025-07-04 19:16:17 [INFO] [face_auth.face_auth] [login_window.py:1075] - 登录窗口显示事件触发
+2025-07-04 19:16:17 [INFO] [face_auth.face_auth] [login_window.py:1075] - 登录窗口显示事件触发
+2025-07-04 19:16:17 [INFO] [face_auth.face_auth] [login_window.py:1077] - 登录窗口显示
+2025-07-04 19:16:17 [INFO] [face_auth.face_auth] [login_window.py:1077] - 登录窗口显示
+2025-07-04 19:16:17 [INFO] [face_auth.main] [main.py:216] - 登录窗口已显示
+2025-07-04 19:16:17 [INFO] [face_auth.main] [main.py:216] - 登录窗口已显示
+2025-07-04 19:16:17 [INFO] [face_auth.main] [main.py:219] - 开始运行应用事件循环...
+2025-07-04 19:16:17 [INFO] [face_auth.main] [main.py:219] - 开始运行应用事件循环...
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth] [login_window.py:1114] - 登录窗口关闭事件触发
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth] [login_window.py:1114] - 登录窗口关闭事件触发
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth] [login_window.py:877] - 摄像头预览已清除
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth] [login_window.py:877] - 摄像头预览已清除
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth] [login_window.py:1120] - 登录窗口已关闭
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth] [login_window.py:1120] - 登录窗口已关闭
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth] [login_window.py:1098] - 登录窗口隐藏事件触发
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth] [login_window.py:1098] - 登录窗口隐藏事件触发
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth] [login_window.py:1100] - 登录窗口隐藏
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth] [login_window.py:1100] - 登录窗口隐藏
+2025-07-04 19:16:26 [INFO] [face_auth.main] [main.py:221] - 应用事件循环结束，返回值: 0
+2025-07-04 19:16:26 [INFO] [face_auth.main] [main.py:221] - 应用事件循环结束，返回值: 0
+2025-07-04 19:16:26 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 camera_label 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:16:26 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 camera_label 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:16:26 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 camera_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:16:26 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 camera_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:16:26 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 login_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:16:26 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 login_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:16:26 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 face_login_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:16:26 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 face_login_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:16:26 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 register_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:16:26 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 register_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:16:26 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 username_input 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:16:26 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 username_input 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:16:26 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 password_input 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:16:26 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 password_input 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:16:26 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:20:00 [INFO] [face_auth] [logger.py:134] - 日志记录器 'face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:00 [INFO] [face_auth.models] [logger.py:134] - 日志记录器 'face_auth.models' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:00 [INFO] [face_auth.models] [logger.py:134] - 日志记录器 'face_auth.models' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:01 [INFO] [face_auth.face_detector] [logger.py:134] - 日志记录器 'face_auth.face_detector' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:01 [INFO] [face_auth.face_detector] [logger.py:134] - 日志记录器 'face_auth.face_detector' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:01 [INFO] [face_auth.face_utils] [logger.py:134] - 日志记录器 'face_auth.face_utils' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:01 [INFO] [face_auth.face_utils] [logger.py:134] - 日志记录器 'face_auth.face_utils' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:01 [INFO] [face_auth.face_auth.authenticator] [logger.py:134] - 日志记录器 'face_auth.face_auth.authenticator' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:01 [INFO] [face_auth.face_auth.authenticator] [logger.py:134] - 日志记录器 'face_auth.face_auth.authenticator' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:01 [INFO] [face_auth.validators] [logger.py:134] - 日志记录器 'face_auth.validators' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:01 [INFO] [face_auth.validators] [logger.py:134] - 日志记录器 'face_auth.validators' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:01 [INFO] [face_auth.message_box] [logger.py:134] - 日志记录器 'face_auth.message_box' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:01 [INFO] [face_auth.message_box] [logger.py:134] - 日志记录器 'face_auth.message_box' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:01 [INFO] [face_auth.face_auth] [logger.py:134] - 日志记录器 'face_auth.face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:01 [INFO] [face_auth.face_auth] [logger.py:134] - 日志记录器 'face_auth.face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:01 [INFO] [face_auth.main] [logger.py:134] - 日志记录器 'face_auth.main' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:01 [INFO] [face_auth.main] [logger.py:134] - 日志记录器 'face_auth.main' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:01 [INFO] [face_auth.main] [main.py:166] - 程序启动...
+2025-07-04 19:20:01 [INFO] [face_auth.main] [main.py:166] - 程序启动...
+2025-07-04 19:20:01 [INFO] [face_auth.main] [main.py:167] - 调试模式: 关闭
+2025-07-04 19:20:01 [INFO] [face_auth.main] [main.py:167] - 调试模式: 关闭
+2025-07-04 19:20:01 [INFO] [face_auth.main] [main.py:105] - Python 版本: 3.8.10 (default, May 19 2021, 13:12:57) [MSC v.1916 64 bit (AMD64)]
+2025-07-04 19:20:01 [INFO] [face_auth.main] [main.py:105] - Python 版本: 3.8.10 (default, May 19 2021, 13:12:57) [MSC v.1916 64 bit (AMD64)]
+2025-07-04 19:20:01 [INFO] [face_auth.main] [main.py:106] - PyTorch 版本: 1.10.1+cu113
+2025-07-04 19:20:01 [INFO] [face_auth.main] [main.py:106] - PyTorch 版本: 1.10.1+cu113
+2025-07-04 19:20:01 [INFO] [face_auth.main] [main.py:107] - OpenCV 版本: 4.5.5
+2025-07-04 19:20:01 [INFO] [face_auth.main] [main.py:107] - OpenCV 版本: 4.5.5
+2025-07-04 19:20:01 [INFO] [face_auth.main] [main.py:108] - NumPy 版本: 1.24.4
+2025-07-04 19:20:01 [INFO] [face_auth.main] [main.py:108] - NumPy 版本: 1.24.4
+2025-07-04 19:20:01 [INFO] [face_auth.main] [main.py:109] - PyMySQL 版本: 1.0.2
+2025-07-04 19:20:01 [INFO] [face_auth.main] [main.py:109] - PyMySQL 版本: 1.0.2
+2025-07-04 19:20:01 [INFO] [face_auth.main] [main.py:113] - CUDA 可用: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:20:01 [INFO] [face_auth.main] [main.py:113] - CUDA 可用: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:20:03 [INFO] [face_auth.main] [main.py:120] - 摄像头检查通过
+2025-07-04 19:20:03 [INFO] [face_auth.main] [main.py:120] - 摄像头检查通过
+2025-07-04 19:20:03 [INFO] [face_auth.main] [main.py:142] - 数据库连接测试成功
+2025-07-04 19:20:03 [INFO] [face_auth.main] [main.py:142] - 数据库连接测试成功
+2025-07-04 19:20:03 [INFO] [face_auth.main] [main.py:197] - 使用数据库配置: {'host': 'localhost', 'user': 'root', 'password': '123456', 'db_name': 'face_auth', 'port': 3306, 'charset': 'utf8mb4', 'connect_timeout': 5, 'max_retries': 3}
+2025-07-04 19:20:03 [INFO] [face_auth.main] [main.py:197] - 使用数据库配置: {'host': 'localhost', 'user': 'root', 'password': '123456', 'db_name': 'face_auth', 'port': 3306, 'charset': 'utf8mb4', 'connect_timeout': 5, 'max_retries': 3}
+2025-07-04 19:20:03 [INFO] [face_auth.main] [main.py:201] - 正在创建QApplication实例...
+2025-07-04 19:20:03 [INFO] [face_auth.main] [main.py:201] - 正在创建QApplication实例...
+2025-07-04 19:20:03 [INFO] [face_auth.main] [main.py:203] - QApplication实例创建成功
+2025-07-04 19:20:03 [INFO] [face_auth.main] [main.py:203] - QApplication实例创建成功
+2025-07-04 19:20:03 [INFO] [face_auth.main] [main.py:212] - 正在创建登录窗口...
+2025-07-04 19:20:03 [INFO] [face_auth.main] [main.py:212] - 正在创建登录窗口...
+2025-07-04 19:20:03 [INFO] [face_auth.face_auth] [login_window.py:262] - 开始初始化登录窗口...
+2025-07-04 19:20:03 [INFO] [face_auth.face_auth] [login_window.py:262] - 开始初始化登录窗口...
+2025-07-04 19:20:03 [INFO] [face_auth.face_auth] [login_window.py:271] - 正在初始化认证器...
+2025-07-04 19:20:03 [INFO] [face_auth.face_auth] [login_window.py:271] - 正在初始化认证器...
+2025-07-04 19:20:03 [INFO] [face_auth.face_detector] [face_detector.py:30] - 使用设备: cuda
+2025-07-04 19:20:03 [INFO] [face_auth.face_detector] [face_detector.py:30] - 使用设备: cuda
+2025-07-04 19:20:03 [INFO] [face_auth.face_detector] [face_detector.py:32] - GPU设备: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:20:03 [INFO] [face_auth.face_detector] [face_detector.py:32] - GPU设备: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:20:03 [INFO] [face_auth.face_detector] [face_detector.py:33] - 可用显存: 8187.5MB
+2025-07-04 19:20:03 [INFO] [face_auth.face_detector] [face_detector.py:33] - 可用显存: 8187.5MB
+2025-07-04 19:20:03 [INFO] [face_auth.face_detector] [face_detector.py:39] - 正在初始化MTCNN人脸检测器...
+2025-07-04 19:20:03 [INFO] [face_auth.face_detector] [face_detector.py:39] - 正在初始化MTCNN人脸检测器...
+2025-07-04 19:20:03 [INFO] [face_auth.face_detector] [face_detector.py:52] - MTCNN模型加载成功
+2025-07-04 19:20:03 [INFO] [face_auth.face_detector] [face_detector.py:52] - MTCNN模型加载成功
+2025-07-04 19:20:03 [INFO] [face_auth.face_detector] [face_detector.py:62] - 正在从本地加载InceptionResnetV1模型: E:\Python\PyCharm_project\AI\face_auth\resources\models\20180402-114759-vggface2.pt
+2025-07-04 19:20:03 [INFO] [face_auth.face_detector] [face_detector.py:62] - 正在从本地加载InceptionResnetV1模型: E:\Python\PyCharm_project\AI\face_auth\resources\models\20180402-114759-vggface2.pt
+2025-07-04 19:20:04 [INFO] [face_auth.face_detector] [face_detector.py:69] - InceptionResnetV1本地模型加载成功
+2025-07-04 19:20:04 [INFO] [face_auth.face_detector] [face_detector.py:69] - InceptionResnetV1本地模型加载成功
+2025-07-04 19:20:04 [INFO] [face_auth.face_auth] [login_window.py:273] - 认证器初始化完成
+2025-07-04 19:20:04 [INFO] [face_auth.face_auth] [login_window.py:273] - 认证器初始化完成
+2025-07-04 19:20:04 [INFO] [face_auth.face_auth] [login_window.py:282] - 正在初始化UI...
+2025-07-04 19:20:04 [INFO] [face_auth.face_auth] [login_window.py:282] - 正在初始化UI...
+2025-07-04 19:20:04 [INFO] [face_auth.face_auth] [login_window.py:284] - UI初始化完成
+2025-07-04 19:20:04 [INFO] [face_auth.face_auth] [login_window.py:284] - UI初始化完成
+2025-07-04 19:20:04 [INFO] [face_auth.main] [main.py:214] - 登录窗口创建成功，准备显示...
+2025-07-04 19:20:04 [INFO] [face_auth.main] [main.py:214] - 登录窗口创建成功，准备显示...
+2025-07-04 19:20:04 [INFO] [face_auth.face_auth] [login_window.py:1075] - 登录窗口显示事件触发
+2025-07-04 19:20:04 [INFO] [face_auth.face_auth] [login_window.py:1075] - 登录窗口显示事件触发
+2025-07-04 19:20:04 [INFO] [face_auth.face_auth] [login_window.py:1077] - 登录窗口显示
+2025-07-04 19:20:04 [INFO] [face_auth.face_auth] [login_window.py:1077] - 登录窗口显示
+2025-07-04 19:20:04 [INFO] [face_auth.main] [main.py:216] - 登录窗口已显示
+2025-07-04 19:20:04 [INFO] [face_auth.main] [main.py:216] - 登录窗口已显示
+2025-07-04 19:20:04 [INFO] [face_auth.main] [main.py:219] - 开始运行应用事件循环...
+2025-07-04 19:20:04 [INFO] [face_auth.main] [main.py:219] - 开始运行应用事件循环...
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth] [login_window.py:1114] - 登录窗口关闭事件触发
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth] [login_window.py:1114] - 登录窗口关闭事件触发
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth] [login_window.py:877] - 摄像头预览已清除
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth] [login_window.py:877] - 摄像头预览已清除
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth] [login_window.py:1120] - 登录窗口已关闭
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth] [login_window.py:1120] - 登录窗口已关闭
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth] [login_window.py:1098] - 登录窗口隐藏事件触发
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth] [login_window.py:1098] - 登录窗口隐藏事件触发
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth] [login_window.py:1100] - 登录窗口隐藏
+2025-07-04 19:20:14 [INFO] [face_auth.face_auth] [login_window.py:1100] - 登录窗口隐藏
+2025-07-04 19:20:14 [INFO] [face_auth.main] [main.py:221] - 应用事件循环结束，返回值: 0
+2025-07-04 19:20:14 [INFO] [face_auth.main] [main.py:221] - 应用事件循环结束，返回值: 0
+2025-07-04 19:20:14 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 camera_label 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:20:14 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 camera_label 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:20:14 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 camera_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:20:14 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 camera_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:20:14 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 login_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:20:14 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 login_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:20:14 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 face_login_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:20:14 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 face_login_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:20:14 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 register_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:20:14 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 register_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:20:14 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 username_input 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:20:14 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 username_input 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:20:14 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 password_input 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:20:14 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 password_input 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:20:31 [INFO] [face_auth] [logger.py:134] - 日志记录器 'face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:31 [INFO] [face_auth.models] [logger.py:134] - 日志记录器 'face_auth.models' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:31 [INFO] [face_auth.models] [logger.py:134] - 日志记录器 'face_auth.models' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:31 [INFO] [face_auth.face_detector] [logger.py:134] - 日志记录器 'face_auth.face_detector' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:31 [INFO] [face_auth.face_detector] [logger.py:134] - 日志记录器 'face_auth.face_detector' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:31 [INFO] [face_auth.face_utils] [logger.py:134] - 日志记录器 'face_auth.face_utils' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:31 [INFO] [face_auth.face_utils] [logger.py:134] - 日志记录器 'face_auth.face_utils' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:31 [INFO] [face_auth.face_auth.authenticator] [logger.py:134] - 日志记录器 'face_auth.face_auth.authenticator' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:31 [INFO] [face_auth.face_auth.authenticator] [logger.py:134] - 日志记录器 'face_auth.face_auth.authenticator' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:31 [INFO] [face_auth.validators] [logger.py:134] - 日志记录器 'face_auth.validators' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:31 [INFO] [face_auth.validators] [logger.py:134] - 日志记录器 'face_auth.validators' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:31 [INFO] [face_auth.message_box] [logger.py:134] - 日志记录器 'face_auth.message_box' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:31 [INFO] [face_auth.message_box] [logger.py:134] - 日志记录器 'face_auth.message_box' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:31 [INFO] [face_auth.face_auth] [logger.py:134] - 日志记录器 'face_auth.face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:31 [INFO] [face_auth.face_auth] [logger.py:134] - 日志记录器 'face_auth.face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:31 [INFO] [face_auth.main] [logger.py:134] - 日志记录器 'face_auth.main' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:31 [INFO] [face_auth.main] [logger.py:134] - 日志记录器 'face_auth.main' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:20:31 [INFO] [face_auth.main] [main.py:166] - 程序启动...
+2025-07-04 19:20:31 [INFO] [face_auth.main] [main.py:166] - 程序启动...
+2025-07-04 19:20:31 [INFO] [face_auth.main] [main.py:167] - 调试模式: 关闭
+2025-07-04 19:20:31 [INFO] [face_auth.main] [main.py:167] - 调试模式: 关闭
+2025-07-04 19:20:31 [INFO] [face_auth.main] [main.py:105] - Python 版本: 3.8.10 (default, May 19 2021, 13:12:57) [MSC v.1916 64 bit (AMD64)]
+2025-07-04 19:20:31 [INFO] [face_auth.main] [main.py:105] - Python 版本: 3.8.10 (default, May 19 2021, 13:12:57) [MSC v.1916 64 bit (AMD64)]
+2025-07-04 19:20:31 [INFO] [face_auth.main] [main.py:106] - PyTorch 版本: 1.10.1+cu113
+2025-07-04 19:20:31 [INFO] [face_auth.main] [main.py:106] - PyTorch 版本: 1.10.1+cu113
+2025-07-04 19:20:31 [INFO] [face_auth.main] [main.py:107] - OpenCV 版本: 4.5.5
+2025-07-04 19:20:31 [INFO] [face_auth.main] [main.py:107] - OpenCV 版本: 4.5.5
+2025-07-04 19:20:31 [INFO] [face_auth.main] [main.py:108] - NumPy 版本: 1.24.4
+2025-07-04 19:20:31 [INFO] [face_auth.main] [main.py:108] - NumPy 版本: 1.24.4
+2025-07-04 19:20:31 [INFO] [face_auth.main] [main.py:109] - PyMySQL 版本: 1.0.2
+2025-07-04 19:20:31 [INFO] [face_auth.main] [main.py:109] - PyMySQL 版本: 1.0.2
+2025-07-04 19:20:31 [INFO] [face_auth.main] [main.py:113] - CUDA 可用: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:20:31 [INFO] [face_auth.main] [main.py:113] - CUDA 可用: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:20:33 [INFO] [face_auth.main] [main.py:120] - 摄像头检查通过
+2025-07-04 19:20:33 [INFO] [face_auth.main] [main.py:120] - 摄像头检查通过
+2025-07-04 19:20:33 [INFO] [face_auth.main] [main.py:142] - 数据库连接测试成功
+2025-07-04 19:20:33 [INFO] [face_auth.main] [main.py:142] - 数据库连接测试成功
+2025-07-04 19:20:33 [INFO] [face_auth.main] [main.py:197] - 使用数据库配置: {'host': 'localhost', 'user': 'root', 'password': '123456', 'db_name': 'face_auth', 'port': 3306, 'charset': 'utf8mb4', 'connect_timeout': 5, 'max_retries': 3}
+2025-07-04 19:20:33 [INFO] [face_auth.main] [main.py:197] - 使用数据库配置: {'host': 'localhost', 'user': 'root', 'password': '123456', 'db_name': 'face_auth', 'port': 3306, 'charset': 'utf8mb4', 'connect_timeout': 5, 'max_retries': 3}
+2025-07-04 19:20:33 [INFO] [face_auth.main] [main.py:201] - 正在创建QApplication实例...
+2025-07-04 19:20:33 [INFO] [face_auth.main] [main.py:201] - 正在创建QApplication实例...
+2025-07-04 19:20:33 [INFO] [face_auth.main] [main.py:203] - QApplication实例创建成功
+2025-07-04 19:20:33 [INFO] [face_auth.main] [main.py:203] - QApplication实例创建成功
+2025-07-04 19:20:33 [INFO] [face_auth.main] [main.py:212] - 正在创建登录窗口...
+2025-07-04 19:20:33 [INFO] [face_auth.main] [main.py:212] - 正在创建登录窗口...
+2025-07-04 19:20:33 [INFO] [face_auth.face_auth] [login_window.py:262] - 开始初始化登录窗口...
+2025-07-04 19:20:33 [INFO] [face_auth.face_auth] [login_window.py:262] - 开始初始化登录窗口...
+2025-07-04 19:20:33 [INFO] [face_auth.face_auth] [login_window.py:271] - 正在初始化认证器...
+2025-07-04 19:20:33 [INFO] [face_auth.face_auth] [login_window.py:271] - 正在初始化认证器...
+2025-07-04 19:20:33 [INFO] [face_auth.face_detector] [face_detector.py:30] - 使用设备: cuda
+2025-07-04 19:20:33 [INFO] [face_auth.face_detector] [face_detector.py:30] - 使用设备: cuda
+2025-07-04 19:20:33 [INFO] [face_auth.face_detector] [face_detector.py:32] - GPU设备: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:20:33 [INFO] [face_auth.face_detector] [face_detector.py:32] - GPU设备: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:20:33 [INFO] [face_auth.face_detector] [face_detector.py:33] - 可用显存: 8187.5MB
+2025-07-04 19:20:33 [INFO] [face_auth.face_detector] [face_detector.py:33] - 可用显存: 8187.5MB
+2025-07-04 19:20:33 [INFO] [face_auth.face_detector] [face_detector.py:39] - 正在初始化MTCNN人脸检测器...
+2025-07-04 19:20:33 [INFO] [face_auth.face_detector] [face_detector.py:39] - 正在初始化MTCNN人脸检测器...
+2025-07-04 19:20:33 [INFO] [face_auth.face_detector] [face_detector.py:52] - MTCNN模型加载成功
+2025-07-04 19:20:33 [INFO] [face_auth.face_detector] [face_detector.py:52] - MTCNN模型加载成功
+2025-07-04 19:20:33 [INFO] [face_auth.face_detector] [face_detector.py:62] - 正在从本地加载InceptionResnetV1模型: E:\Python\PyCharm_project\AI\face_auth\resources\models\20180402-114759-vggface2.pt
+2025-07-04 19:20:33 [INFO] [face_auth.face_detector] [face_detector.py:62] - 正在从本地加载InceptionResnetV1模型: E:\Python\PyCharm_project\AI\face_auth\resources\models\20180402-114759-vggface2.pt
+2025-07-04 19:20:34 [INFO] [face_auth.face_detector] [face_detector.py:69] - InceptionResnetV1本地模型加载成功
+2025-07-04 19:20:34 [INFO] [face_auth.face_detector] [face_detector.py:69] - InceptionResnetV1本地模型加载成功
+2025-07-04 19:20:34 [INFO] [face_auth.face_auth] [login_window.py:273] - 认证器初始化完成
+2025-07-04 19:20:34 [INFO] [face_auth.face_auth] [login_window.py:273] - 认证器初始化完成
+2025-07-04 19:20:34 [INFO] [face_auth.face_auth] [login_window.py:282] - 正在初始化UI...
+2025-07-04 19:20:34 [INFO] [face_auth.face_auth] [login_window.py:282] - 正在初始化UI...
+2025-07-04 19:20:34 [INFO] [face_auth.face_auth] [login_window.py:284] - UI初始化完成
+2025-07-04 19:20:34 [INFO] [face_auth.face_auth] [login_window.py:284] - UI初始化完成
+2025-07-04 19:20:34 [INFO] [face_auth.main] [main.py:214] - 登录窗口创建成功，准备显示...
+2025-07-04 19:20:34 [INFO] [face_auth.main] [main.py:214] - 登录窗口创建成功，准备显示...
+2025-07-04 19:20:34 [INFO] [face_auth.face_auth] [login_window.py:1075] - 登录窗口显示事件触发
+2025-07-04 19:20:34 [INFO] [face_auth.face_auth] [login_window.py:1075] - 登录窗口显示事件触发
+2025-07-04 19:20:34 [INFO] [face_auth.face_auth] [login_window.py:1077] - 登录窗口显示
+2025-07-04 19:20:34 [INFO] [face_auth.face_auth] [login_window.py:1077] - 登录窗口显示
+2025-07-04 19:20:34 [INFO] [face_auth.main] [main.py:216] - 登录窗口已显示
+2025-07-04 19:20:34 [INFO] [face_auth.main] [main.py:216] - 登录窗口已显示
+2025-07-04 19:20:34 [INFO] [face_auth.main] [main.py:219] - 开始运行应用事件循环...
+2025-07-04 19:20:34 [INFO] [face_auth.main] [main.py:219] - 开始运行应用事件循环...
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth] [login_window.py:1114] - 登录窗口关闭事件触发
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth] [login_window.py:1114] - 登录窗口关闭事件触发
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth] [login_window.py:877] - 摄像头预览已清除
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth] [login_window.py:877] - 摄像头预览已清除
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth] [login_window.py:1120] - 登录窗口已关闭
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth] [login_window.py:1120] - 登录窗口已关闭
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth] [login_window.py:1098] - 登录窗口隐藏事件触发
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth] [login_window.py:1098] - 登录窗口隐藏事件触发
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth] [login_window.py:1100] - 登录窗口隐藏
+2025-07-04 19:21:03 [INFO] [face_auth.face_auth] [login_window.py:1100] - 登录窗口隐藏
+2025-07-04 19:21:03 [INFO] [face_auth.main] [main.py:221] - 应用事件循环结束，返回值: 0
+2025-07-04 19:21:03 [INFO] [face_auth.main] [main.py:221] - 应用事件循环结束，返回值: 0
+2025-07-04 19:21:03 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 camera_label 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:21:03 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 camera_label 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:21:03 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 camera_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:21:03 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 camera_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:21:03 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 login_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:21:03 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 login_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:21:03 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 face_login_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:21:03 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 face_login_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:21:03 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 register_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:21:03 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 register_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:21:03 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 username_input 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:21:03 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 username_input 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:21:03 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 password_input 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:21:03 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 password_input 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:24:58 [INFO] [face_auth] [logger.py:134] - 日志记录器 'face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:24:58 [INFO] [face_auth.models] [logger.py:134] - 日志记录器 'face_auth.models' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:24:58 [INFO] [face_auth.models] [logger.py:134] - 日志记录器 'face_auth.models' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:24:59 [INFO] [face_auth.face_detector] [logger.py:134] - 日志记录器 'face_auth.face_detector' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:24:59 [INFO] [face_auth.face_detector] [logger.py:134] - 日志记录器 'face_auth.face_detector' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:24:59 [INFO] [face_auth.face_utils] [logger.py:134] - 日志记录器 'face_auth.face_utils' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:24:59 [INFO] [face_auth.face_utils] [logger.py:134] - 日志记录器 'face_auth.face_utils' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:24:59 [INFO] [face_auth.face_auth.authenticator] [logger.py:134] - 日志记录器 'face_auth.face_auth.authenticator' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:24:59 [INFO] [face_auth.face_auth.authenticator] [logger.py:134] - 日志记录器 'face_auth.face_auth.authenticator' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:24:59 [INFO] [face_auth.validators] [logger.py:134] - 日志记录器 'face_auth.validators' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:24:59 [INFO] [face_auth.validators] [logger.py:134] - 日志记录器 'face_auth.validators' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:24:59 [INFO] [face_auth.message_box] [logger.py:134] - 日志记录器 'face_auth.message_box' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:24:59 [INFO] [face_auth.message_box] [logger.py:134] - 日志记录器 'face_auth.message_box' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:24:59 [INFO] [face_auth.face_auth] [logger.py:134] - 日志记录器 'face_auth.face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:24:59 [INFO] [face_auth.face_auth] [logger.py:134] - 日志记录器 'face_auth.face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:25:21 [INFO] [face_auth] [logger.py:134] - 日志记录器 'face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:25:21 [INFO] [face_auth.models] [logger.py:134] - 日志记录器 'face_auth.models' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:25:21 [INFO] [face_auth.models] [logger.py:134] - 日志记录器 'face_auth.models' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:25:21 [INFO] [face_auth.face_detector] [logger.py:134] - 日志记录器 'face_auth.face_detector' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:25:21 [INFO] [face_auth.face_detector] [logger.py:134] - 日志记录器 'face_auth.face_detector' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:25:21 [INFO] [face_auth.face_utils] [logger.py:134] - 日志记录器 'face_auth.face_utils' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:25:21 [INFO] [face_auth.face_utils] [logger.py:134] - 日志记录器 'face_auth.face_utils' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:25:21 [INFO] [face_auth.face_auth.authenticator] [logger.py:134] - 日志记录器 'face_auth.face_auth.authenticator' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:25:21 [INFO] [face_auth.face_auth.authenticator] [logger.py:134] - 日志记录器 'face_auth.face_auth.authenticator' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:25:21 [INFO] [face_auth.validators] [logger.py:134] - 日志记录器 'face_auth.validators' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:25:21 [INFO] [face_auth.validators] [logger.py:134] - 日志记录器 'face_auth.validators' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:25:21 [INFO] [face_auth.message_box] [logger.py:134] - 日志记录器 'face_auth.message_box' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:25:21 [INFO] [face_auth.message_box] [logger.py:134] - 日志记录器 'face_auth.message_box' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:25:21 [INFO] [face_auth.face_auth] [logger.py:134] - 日志记录器 'face_auth.face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:25:21 [INFO] [face_auth.face_auth] [logger.py:134] - 日志记录器 'face_auth.face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:25:21 [INFO] [face_auth.main] [logger.py:134] - 日志记录器 'face_auth.main' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:25:21 [INFO] [face_auth.main] [logger.py:134] - 日志记录器 'face_auth.main' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:25:21 [INFO] [face_auth.main] [main.py:166] - 程序启动...
+2025-07-04 19:25:21 [INFO] [face_auth.main] [main.py:166] - 程序启动...
+2025-07-04 19:25:21 [INFO] [face_auth.main] [main.py:167] - 调试模式: 关闭
+2025-07-04 19:25:21 [INFO] [face_auth.main] [main.py:167] - 调试模式: 关闭
+2025-07-04 19:25:21 [INFO] [face_auth.main] [main.py:105] - Python 版本: 3.8.10 (default, May 19 2021, 13:12:57) [MSC v.1916 64 bit (AMD64)]
+2025-07-04 19:25:21 [INFO] [face_auth.main] [main.py:105] - Python 版本: 3.8.10 (default, May 19 2021, 13:12:57) [MSC v.1916 64 bit (AMD64)]
+2025-07-04 19:25:21 [INFO] [face_auth.main] [main.py:106] - PyTorch 版本: 1.10.1+cu113
+2025-07-04 19:25:21 [INFO] [face_auth.main] [main.py:106] - PyTorch 版本: 1.10.1+cu113
+2025-07-04 19:25:21 [INFO] [face_auth.main] [main.py:107] - OpenCV 版本: 4.5.5
+2025-07-04 19:25:21 [INFO] [face_auth.main] [main.py:107] - OpenCV 版本: 4.5.5
+2025-07-04 19:25:21 [INFO] [face_auth.main] [main.py:108] - NumPy 版本: 1.24.4
+2025-07-04 19:25:21 [INFO] [face_auth.main] [main.py:108] - NumPy 版本: 1.24.4
+2025-07-04 19:25:21 [INFO] [face_auth.main] [main.py:109] - PyMySQL 版本: 1.0.2
+2025-07-04 19:25:21 [INFO] [face_auth.main] [main.py:109] - PyMySQL 版本: 1.0.2
+2025-07-04 19:25:21 [INFO] [face_auth.main] [main.py:113] - CUDA 可用: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:25:21 [INFO] [face_auth.main] [main.py:113] - CUDA 可用: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:25:23 [INFO] [face_auth.main] [main.py:120] - 摄像头检查通过
+2025-07-04 19:25:23 [INFO] [face_auth.main] [main.py:120] - 摄像头检查通过
+2025-07-04 19:25:23 [INFO] [face_auth.main] [main.py:142] - 数据库连接测试成功
+2025-07-04 19:25:23 [INFO] [face_auth.main] [main.py:142] - 数据库连接测试成功
+2025-07-04 19:25:23 [INFO] [face_auth.main] [main.py:197] - 使用数据库配置: {'host': 'localhost', 'user': 'root', 'password': '123456', 'db_name': 'face_auth', 'port': 3306, 'charset': 'utf8mb4', 'connect_timeout': 5, 'max_retries': 3}
+2025-07-04 19:25:23 [INFO] [face_auth.main] [main.py:197] - 使用数据库配置: {'host': 'localhost', 'user': 'root', 'password': '123456', 'db_name': 'face_auth', 'port': 3306, 'charset': 'utf8mb4', 'connect_timeout': 5, 'max_retries': 3}
+2025-07-04 19:25:23 [INFO] [face_auth.main] [main.py:201] - 正在创建QApplication实例...
+2025-07-04 19:25:23 [INFO] [face_auth.main] [main.py:201] - 正在创建QApplication实例...
+2025-07-04 19:25:23 [INFO] [face_auth.main] [main.py:203] - QApplication实例创建成功
+2025-07-04 19:25:23 [INFO] [face_auth.main] [main.py:203] - QApplication实例创建成功
+2025-07-04 19:25:23 [INFO] [face_auth.main] [main.py:212] - 正在创建登录窗口...
+2025-07-04 19:25:23 [INFO] [face_auth.main] [main.py:212] - 正在创建登录窗口...
+2025-07-04 19:25:23 [INFO] [face_auth.face_auth] [login_window.py:262] - 开始初始化登录窗口...
+2025-07-04 19:25:23 [INFO] [face_auth.face_auth] [login_window.py:262] - 开始初始化登录窗口...
+2025-07-04 19:25:23 [INFO] [face_auth.face_auth] [login_window.py:271] - 正在初始化认证器...
+2025-07-04 19:25:23 [INFO] [face_auth.face_auth] [login_window.py:271] - 正在初始化认证器...
+2025-07-04 19:25:23 [INFO] [face_auth.face_detector] [face_detector.py:30] - 使用设备: cuda
+2025-07-04 19:25:23 [INFO] [face_auth.face_detector] [face_detector.py:30] - 使用设备: cuda
+2025-07-04 19:25:23 [INFO] [face_auth.face_detector] [face_detector.py:32] - GPU设备: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:25:23 [INFO] [face_auth.face_detector] [face_detector.py:32] - GPU设备: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:25:23 [INFO] [face_auth.face_detector] [face_detector.py:33] - 可用显存: 8187.5MB
+2025-07-04 19:25:23 [INFO] [face_auth.face_detector] [face_detector.py:33] - 可用显存: 8187.5MB
+2025-07-04 19:25:23 [INFO] [face_auth.face_detector] [face_detector.py:39] - 正在初始化MTCNN人脸检测器...
+2025-07-04 19:25:23 [INFO] [face_auth.face_detector] [face_detector.py:39] - 正在初始化MTCNN人脸检测器...
+2025-07-04 19:25:23 [INFO] [face_auth.face_detector] [face_detector.py:52] - MTCNN模型加载成功
+2025-07-04 19:25:23 [INFO] [face_auth.face_detector] [face_detector.py:52] - MTCNN模型加载成功
+2025-07-04 19:25:23 [INFO] [face_auth.face_detector] [face_detector.py:62] - 正在从本地加载InceptionResnetV1模型: E:\Python\PyCharm_project\AI\face_auth\resources\models\20180402-114759-vggface2.pt
+2025-07-04 19:25:23 [INFO] [face_auth.face_detector] [face_detector.py:62] - 正在从本地加载InceptionResnetV1模型: E:\Python\PyCharm_project\AI\face_auth\resources\models\20180402-114759-vggface2.pt
+2025-07-04 19:25:25 [INFO] [face_auth.face_detector] [face_detector.py:69] - InceptionResnetV1本地模型加载成功
+2025-07-04 19:25:25 [INFO] [face_auth.face_detector] [face_detector.py:69] - InceptionResnetV1本地模型加载成功
+2025-07-04 19:25:25 [INFO] [face_auth.face_auth] [login_window.py:273] - 认证器初始化完成
+2025-07-04 19:25:25 [INFO] [face_auth.face_auth] [login_window.py:273] - 认证器初始化完成
+2025-07-04 19:25:25 [INFO] [face_auth.face_auth] [login_window.py:282] - 正在初始化UI...
+2025-07-04 19:25:25 [INFO] [face_auth.face_auth] [login_window.py:282] - 正在初始化UI...
+2025-07-04 19:25:25 [INFO] [face_auth.face_auth] [login_window.py:284] - UI初始化完成
+2025-07-04 19:25:25 [INFO] [face_auth.face_auth] [login_window.py:284] - UI初始化完成
+2025-07-04 19:25:25 [INFO] [face_auth.main] [main.py:214] - 登录窗口创建成功，准备显示...
+2025-07-04 19:25:25 [INFO] [face_auth.main] [main.py:214] - 登录窗口创建成功，准备显示...
+2025-07-04 19:25:25 [INFO] [face_auth.face_auth] [login_window.py:1075] - 登录窗口显示事件触发
+2025-07-04 19:25:25 [INFO] [face_auth.face_auth] [login_window.py:1075] - 登录窗口显示事件触发
+2025-07-04 19:25:25 [INFO] [face_auth.face_auth] [login_window.py:1077] - 登录窗口显示
+2025-07-04 19:25:25 [INFO] [face_auth.face_auth] [login_window.py:1077] - 登录窗口显示
+2025-07-04 19:25:25 [INFO] [face_auth.main] [main.py:216] - 登录窗口已显示
+2025-07-04 19:25:25 [INFO] [face_auth.main] [main.py:216] - 登录窗口已显示
+2025-07-04 19:25:25 [INFO] [face_auth.main] [main.py:219] - 开始运行应用事件循环...
+2025-07-04 19:25:25 [INFO] [face_auth.main] [main.py:219] - 开始运行应用事件循环...
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth] [login_window.py:1114] - 登录窗口关闭事件触发
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth] [login_window.py:1114] - 登录窗口关闭事件触发
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth] [login_window.py:877] - 摄像头预览已清除
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth] [login_window.py:877] - 摄像头预览已清除
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:281] - 正在关闭数据库连接...
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:284] - 数据库连接已关闭
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:292] - 正在释放人脸检测器资源...
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:295] - 人脸检测器资源已释放
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth] [login_window.py:1120] - 登录窗口已关闭
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth] [login_window.py:1120] - 登录窗口已关闭
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth] [login_window.py:1098] - 登录窗口隐藏事件触发
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth] [login_window.py:1098] - 登录窗口隐藏事件触发
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth] [login_window.py:1100] - 登录窗口隐藏
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth] [login_window.py:1100] - 登录窗口隐藏
+2025-07-04 19:25:29 [INFO] [face_auth.main] [main.py:221] - 应用事件循环结束，返回值: 0
+2025-07-04 19:25:29 [INFO] [face_auth.main] [main.py:221] - 应用事件循环结束，返回值: 0
+2025-07-04 19:25:29 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 camera_label 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:25:29 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 camera_label 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:25:29 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 camera_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:25:29 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 camera_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:25:29 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 login_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:25:29 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 login_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:25:29 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 face_login_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:25:29 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 face_login_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:25:29 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 register_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:25:29 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 register_button 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:25:29 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 username_input 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:25:29 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 username_input 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:25:29 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 password_input 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:25:29 [ERROR] [face_auth.face_auth] [login_window.py:863] - 处理组件 password_input 时出错: wrapped C/C++ object of type LoginWindow has been deleted
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:276] - 开始关闭认证器，释放资源...
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:25:29 [INFO] [face_auth.face_auth.authenticator] [authenticator.py:300] - 认证器资源释放完成
+2025-07-04 19:49:54 [INFO] [face_auth] [logger.py:134] - 日志记录器 'face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:49:54 [INFO] [face_auth.models] [logger.py:134] - 日志记录器 'face_auth.models' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:49:54 [INFO] [face_auth.models] [logger.py:134] - 日志记录器 'face_auth.models' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:49:55 [INFO] [face_auth.face_detector] [logger.py:134] - 日志记录器 'face_auth.face_detector' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:49:55 [INFO] [face_auth.face_detector] [logger.py:134] - 日志记录器 'face_auth.face_detector' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:49:55 [INFO] [face_auth.face_utils] [logger.py:134] - 日志记录器 'face_auth.face_utils' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:49:55 [INFO] [face_auth.face_utils] [logger.py:134] - 日志记录器 'face_auth.face_utils' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:49:55 [INFO] [face_auth.face_auth.authenticator] [logger.py:134] - 日志记录器 'face_auth.face_auth.authenticator' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:49:55 [INFO] [face_auth.face_auth.authenticator] [logger.py:134] - 日志记录器 'face_auth.face_auth.authenticator' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:49:55 [INFO] [face_auth.validators] [logger.py:134] - 日志记录器 'face_auth.validators' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:49:55 [INFO] [face_auth.validators] [logger.py:134] - 日志记录器 'face_auth.validators' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:49:55 [INFO] [face_auth.message_box] [logger.py:134] - 日志记录器 'face_auth.message_box' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:49:55 [INFO] [face_auth.message_box] [logger.py:134] - 日志记录器 'face_auth.message_box' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:49:55 [INFO] [face_auth.face_auth] [logger.py:134] - 日志记录器 'face_auth.face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:49:55 [INFO] [face_auth.face_auth] [logger.py:134] - 日志记录器 'face_auth.face_auth' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:49:55 [INFO] [face_auth.main] [logger.py:134] - 日志记录器 'face_auth.main' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:49:55 [INFO] [face_auth.main] [logger.py:134] - 日志记录器 'face_auth.main' 初始化成功，日志文件: E:\Python\PyCharm_project\AI\face_auth\logs\face_auth_20250704_20250704.log
+2025-07-04 19:49:55 [INFO] [face_auth.main] [main.py:166] - 程序启动...
+2025-07-04 19:49:55 [INFO] [face_auth.main] [main.py:166] - 程序启动...
+2025-07-04 19:49:55 [INFO] [face_auth.main] [main.py:167] - 调试模式: 关闭
+2025-07-04 19:49:55 [INFO] [face_auth.main] [main.py:167] - 调试模式: 关闭
+2025-07-04 19:49:55 [INFO] [face_auth.main] [main.py:105] - Python 版本: 3.8.10 (default, May 19 2021, 13:12:57) [MSC v.1916 64 bit (AMD64)]
+2025-07-04 19:49:55 [INFO] [face_auth.main] [main.py:105] - Python 版本: 3.8.10 (default, May 19 2021, 13:12:57) [MSC v.1916 64 bit (AMD64)]
+2025-07-04 19:49:55 [INFO] [face_auth.main] [main.py:106] - PyTorch 版本: 1.10.1+cu113
+2025-07-04 19:49:55 [INFO] [face_auth.main] [main.py:106] - PyTorch 版本: 1.10.1+cu113
+2025-07-04 19:49:55 [INFO] [face_auth.main] [main.py:107] - OpenCV 版本: 4.5.5
+2025-07-04 19:49:55 [INFO] [face_auth.main] [main.py:107] - OpenCV 版本: 4.5.5
+2025-07-04 19:49:55 [INFO] [face_auth.main] [main.py:108] - NumPy 版本: 1.24.4
+2025-07-04 19:49:55 [INFO] [face_auth.main] [main.py:108] - NumPy 版本: 1.24.4
+2025-07-04 19:49:55 [INFO] [face_auth.main] [main.py:109] - PyMySQL 版本: 1.0.2
+2025-07-04 19:49:55 [INFO] [face_auth.main] [main.py:109] - PyMySQL 版本: 1.0.2
+2025-07-04 19:49:55 [INFO] [face_auth.main] [main.py:113] - CUDA 可用: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:49:55 [INFO] [face_auth.main] [main.py:113] - CUDA 可用: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:49:56 [INFO] [face_auth.main] [main.py:120] - 摄像头检查通过
+2025-07-04 19:49:56 [INFO] [face_auth.main] [main.py:120] - 摄像头检查通过
+2025-07-04 19:49:56 [INFO] [face_auth.main] [main.py:142] - 数据库连接测试成功
+2025-07-04 19:49:56 [INFO] [face_auth.main] [main.py:142] - 数据库连接测试成功
+2025-07-04 19:49:56 [INFO] [face_auth.main] [main.py:197] - 使用数据库配置: {'host': 'localhost', 'user': 'root', 'password': '123456', 'db_name': 'face_auth', 'port': 3306, 'charset': 'utf8mb4', 'connect_timeout': 5, 'max_retries': 3}
+2025-07-04 19:49:56 [INFO] [face_auth.main] [main.py:197] - 使用数据库配置: {'host': 'localhost', 'user': 'root', 'password': '123456', 'db_name': 'face_auth', 'port': 3306, 'charset': 'utf8mb4', 'connect_timeout': 5, 'max_retries': 3}
+2025-07-04 19:49:56 [INFO] [face_auth.main] [main.py:201] - 正在创建QApplication实例...
+2025-07-04 19:49:56 [INFO] [face_auth.main] [main.py:201] - 正在创建QApplication实例...
+2025-07-04 19:49:56 [INFO] [face_auth.main] [main.py:203] - QApplication实例创建成功
+2025-07-04 19:49:56 [INFO] [face_auth.main] [main.py:203] - QApplication实例创建成功
+2025-07-04 19:49:56 [INFO] [face_auth.main] [main.py:212] - 正在创建登录窗口...
+2025-07-04 19:49:56 [INFO] [face_auth.main] [main.py:212] - 正在创建登录窗口...
+2025-07-04 19:49:56 [INFO] [face_auth.face_auth] [login_window.py:262] - 开始初始化登录窗口...
+2025-07-04 19:49:56 [INFO] [face_auth.face_auth] [login_window.py:262] - 开始初始化登录窗口...
+2025-07-04 19:49:56 [INFO] [face_auth.face_auth] [login_window.py:271] - 正在初始化认证器...
+2025-07-04 19:49:56 [INFO] [face_auth.face_auth] [login_window.py:271] - 正在初始化认证器...
+2025-07-04 19:49:56 [INFO] [face_auth.face_detector] [face_detector.py:30] - 使用设备: cuda
+2025-07-04 19:49:56 [INFO] [face_auth.face_detector] [face_detector.py:30] - 使用设备: cuda
+2025-07-04 19:49:56 [INFO] [face_auth.face_detector] [face_detector.py:32] - GPU设备: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:49:56 [INFO] [face_auth.face_detector] [face_detector.py:32] - GPU设备: NVIDIA GeForce RTX 4060 Laptop GPU
+2025-07-04 19:49:56 [INFO] [face_auth.face_detector] [face_detector.py:33] - 可用显存: 8187.5MB
+2025-07-04 19:49:56 [INFO] [face_auth.face_detector] [face_detector.py:33] - 可用显存: 8187.5MB
+2025-07-04 19:49:56 [INFO] [face_auth.face_detector] [face_detector.py:39] - 正在初始化MTCNN人脸检测器...
+2025-07-04 19:49:56 [INFO] [face_auth.face_detector] [face_detector.py:39] - 正在初始化MTCNN人脸检测器...
+2025-07-04 19:49:56 [INFO] [face_auth.face_detector] [face_detector.py:52] - MTCNN模型加载成功
+2025-07-04 19:49:56 [INFO] [face_auth.face_detector] [face_detector.py:52] - MTCNN模型加载成功
+2025-07-04 19:49:56 [INFO] [face_auth.face_detector] [face_detector.py:71] - 本地模型不存在，正在加载预训练的VGGFace2模型...
+2025-07-04 19:49:56 [INFO] [face_auth.face_detector] [face_detector.py:71] - 本地模型不存在，正在加载预训练的VGGFace2模型...
+2025-07-04 19:50:01 [CRITICAL] [face_auth.main] [main.py:42] - 未捕获的异常: Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\run.py", line 54, in <module>
+    main()
+  File "E:\Python\PyCharm_project\AI\face_auth\run.py", line 42, in main
+    run_app(debug=args.debug, db_config=DB_CONFIG)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\main.py", line 213, in main
+    window = LoginWindow(db_config)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 272, in __init__
+    self.authenticator = Authenticator(db_config)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\auth\authenticator.py", line 34, in __init__
+    self.face_detector = FaceDetector()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\detection\face_detector.py", line 72, in __init__
+    self.resnet = InceptionResnetV1(pretrained='vggface2').eval().to(self.device)
+  File "E:\Anaconda\envs\face_auth\lib\site-packages\facenet_pytorch\models\inception_resnet_v1.py", line 262, in __init__
+    load_weights(self, pretrained)
+  File "E:\Anaconda\envs\face_auth\lib\site-packages\facenet_pytorch\models\inception_resnet_v1.py", line 327, in load_weights
+    download_url_to_file(path, cached_file)
+  File "E:\Anaconda\envs\face_auth\lib\site-packages\facenet_pytorch\models\utils\download.py", line 84, in download_url_to_file
+    buffer = u.read(8192)
+  File "E:\Anaconda\envs\face_auth\lib\http\client.py", line 455, in read
+    n = self.readinto(b)
+  File "E:\Anaconda\envs\face_auth\lib\http\client.py", line 499, in readinto
+    n = self.fp.readinto(b)
+  File "E:\Anaconda\envs\face_auth\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "E:\Anaconda\envs\face_auth\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "E:\Anaconda\envs\face_auth\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt
+
+2025-07-04 19:50:01 [CRITICAL] [face_auth.main] [main.py:42] - 未捕获的异常: Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\run.py", line 54, in <module>
+    main()
+  File "E:\Python\PyCharm_project\AI\face_auth\run.py", line 42, in main
+    run_app(debug=args.debug, db_config=DB_CONFIG)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\main.py", line 213, in main
+    window = LoginWindow(db_config)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 272, in __init__
+    self.authenticator = Authenticator(db_config)
+  File "E:\Python\PyCharm_project\AI\face_auth\src\auth\authenticator.py", line 34, in __init__
+    self.face_detector = FaceDetector()
+  File "E:\Python\PyCharm_project\AI\face_auth\src\detection\face_detector.py", line 72, in __init__
+    self.resnet = InceptionResnetV1(pretrained='vggface2').eval().to(self.device)
+  File "E:\Anaconda\envs\face_auth\lib\site-packages\facenet_pytorch\models\inception_resnet_v1.py", line 262, in __init__
+    load_weights(self, pretrained)
+  File "E:\Anaconda\envs\face_auth\lib\site-packages\facenet_pytorch\models\inception_resnet_v1.py", line 327, in load_weights
+    download_url_to_file(path, cached_file)
+  File "E:\Anaconda\envs\face_auth\lib\site-packages\facenet_pytorch\models\utils\download.py", line 84, in download_url_to_file
+    buffer = u.read(8192)
+  File "E:\Anaconda\envs\face_auth\lib\http\client.py", line 455, in read
+    n = self.readinto(b)
+  File "E:\Anaconda\envs\face_auth\lib\http\client.py", line 499, in readinto
+    n = self.fp.readinto(b)
+  File "E:\Anaconda\envs\face_auth\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "E:\Anaconda\envs\face_auth\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "E:\Anaconda\envs\face_auth\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt
+
+2025-07-04 19:50:01 [ERROR] [face_auth.face_auth] [login_window.py:894] - 重置UI状态时出错: wrapped C/C++ object of type LoginWindow has been deleted
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 807, in reset_ui_state
+    if hasattr(self, thread_attr):
+RuntimeError: wrapped C/C++ object of type LoginWindow has been deleted
+
+2025-07-04 19:50:01 [ERROR] [face_auth.face_auth] [login_window.py:894] - 重置UI状态时出错: wrapped C/C++ object of type LoginWindow has been deleted
+Traceback (most recent call last):
+  File "E:\Python\PyCharm_project\AI\face_auth\src\views\login_window.py", line 807, in reset_ui_state
+    if hasattr(self, thread_attr):
+RuntimeError: wrapped C/C++ object of type LoginWindow has been deleted
+
